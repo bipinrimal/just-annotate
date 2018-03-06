@@ -24,3 +24,24 @@ The tables includes:
 1. *prot_acc* (Protein Accession no.)
 2. *stitle* (Sequence Title from Blastp result)
 
+The database can be queried to identify gene symbol and gene ontology terms for the protein accession obtained from blastp result. 
+For example:
+
+    Input Query:
+    curs.execute('''SELECT blastresult.prot_acc, gene2acc.gene_id, gene2acc.symbol, gene2go.go_id, gene2go.gene_id, gene2go.go_term
+        FROM blastresult JOIN gene2go JOIN gene2acc
+        ON blastresult.prot_acc = gene2acc.prot_acc AND gene2acc.gene_id = gene2go.gene_id LIMIT 10;''')
+        
+     
+    Output: 
+    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
+    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
+    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
+    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
+    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
+    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
+    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
+    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
+    NP_181643.1,818709,TCH3,GO:0005515,818709,"protein binding"
+    NP_181643.1,818709,TCH3,GO:0005515,818709,"protein binding"
+           
