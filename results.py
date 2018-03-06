@@ -67,6 +67,9 @@ def play(fname):
     for row in curs.execute('SELECT COUNT (*) FROM blastresult'):
         print(row)
 
+    curs.execute('''SELECT blastresult.prot_acc, gene2acc.gene_id, gene2acc.symbol, gene2go.go_id, gene2go.gene_id, gene2go.go_term
+        FROM blastresult JOIN gene2go JOIN gene2acc
+        ON blastresult.prot_acc = gene2acc.prot_acc AND gene2acc.gene_id = gene2go.gene_id LIMIT 10;''')
 
 if __name__ == '__main__':
     fname = "annotationDB"
