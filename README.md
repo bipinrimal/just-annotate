@@ -1,8 +1,9 @@
 # just-annotate
 Functional analysis of genomic data 
 
-There are three scripts *gene2go.py*, *gene2acc.py* and *results.py* which create sqlite3 databases for NCBI
-GeneID to Gene Ontology mapping file, Gene ID to protein accession numbers mapping file and finally the user Diamond result file containing protein accession number and sequence title.
+There are three scripts *gene2go.py*, *gene2acc.py* and *results.py* which create a sqlite3 database for NCBI
+GeneID to Gene Ontology mapping file, Gene ID to protein accession numbers mapping file and finally the user Diamond 
+result file containing protein accession number and sequence title.
  
 *gene2go.py* creates the annotation database so need to be run first. Others can be run after that. 
 

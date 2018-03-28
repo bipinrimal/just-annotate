@@ -1,0 +1,357 @@
+scaffold445_g11.t1	AAA30529.1	AAA30529.1 farnesyl-protein transferase alpha-subunit [Bos taurus]	9913	94.4	251	329	108	79	186	1	108	7.3e-52	213.4	542
+scaffold1923_g57.t1	AAA17565.1	AAA17565.1 myosin I [Bos taurus]	9913	98.2	1122	1028	1028	95	1122	1	1028	0.0e+00	1967.6	5096
+scaffold1923_g57.t2	AAA17565.1	AAA17565.1 myosin I [Bos taurus]	9913	98.2	1106	1028	1028	79	1106	1	1028	0.0e+00	1968.4	5098
+scaffold569_g14.t1	A0P8Z4.2	A0P8Z4.2 RecName: Full=Nuclear receptor subfamily 6 group A member 1; AltName: Full=Germ cell nuclear factor; Short=GCNF	9823	99.1	569	479	435	111	545	33	466	3.3e-249	870.2	2247
+scaffold569_g14.t2	A0P8Z4.2	A0P8Z4.2 RecName: Full=Nuclear receptor subfamily 6 group A member 1; AltName: Full=Germ cell nuclear factor; Short=GCNF	9823	99.3	568	479	434	111	544	33	466	7.8e-251	875.5	2261
+scaffold569_g16.t1	A2BD09.3	A2BD09.3 RecName: Full=Olfactomedin-like protein 2A; Flags: Precursor	9823	88.0	735	650	659	79	735	1	650	1.1e-289	1005.0	2597
+scaffold1416_g66.t1	AAA30606.1	AAA30606.1 proline-directed kinase [Bos taurus]	9913	81.0	379	292	306	79	379	1	292	2.1e-127	464.9	1195
+scaffold1335_g11.t1	A0AAS4.2	A0AAS4.2 RecName: Full=Phosphatidylcholine:ceramide cholinephosphotransferase 1; AltName: Full=Sphingomyelin synthase 1	9823	97.3	491	418	413	79	491	6	418	9.4e-229	802.0	2070
+scaffold320_g76.t1	AAA08719.1	AAA08719.1 homeobox containing protein [Mus musculus]	10090	93.8	507	433	434	79	507	1	433	1.1e-192	682.2	1759
+scaffold1178_g10.t1	A6QPR9.2	A6QPR9.2 RecName: Full=Transcription elongation factor, mitochondrial; Flags: Precursor	9913	96.1	438	356	356	79	434	1	356	2.8e-192	680.6	1755
+scaffold146_g68.t1	AAA30693.1	AAA30693.1 peripherin, partial [Bos taurus]	9913	97.9	424	340	340	85	424	1	340	4.8e-197	696.4	1796
+scaffold512_g9.t1	AAA30685.1	AAA30685.1 protein C prepropeptide, partial [Bos taurus]	9913	88.1	509	455	455	83	509	1	455	1.5e-240	841.3	2172
+scaffold512_g9.t2	AAA30685.1	AAA30685.1 protein C prepropeptide, partial [Bos taurus]	9913	93.6	537	455	455	83	537	1	455	1.3e-260	907.9	2345
+scaffold512_g9.t3	AAA30685.1	AAA30685.1 protein C prepropeptide, partial [Bos taurus]	9913	93.6	537	455	455	83	537	1	455	1.3e-260	907.9	2345
+scaffold1368_g62.t1	A1A4J7.2	A1A4J7.2 RecName: Full=Protein SMG8; AltName: Full=Protein smg-8 homolog	9913	97.9	1073	999	999	79	1073	1	999	0.0e+00	1865.9	4832
+scaffold1496_g14.t1	A6QNM3.2	A6QNM3.2 RecName: Full=Origin recognition complex subunit 2	9913	95.5	654	577	576	79	653	1	575	1.4e-307	1064.3	2751
+scaffold3421_g24.t1	AAA19823.1	AAA19823.1 protein phosphatase-1 gamma 1, partial [Homo sapiens]	9606	100.0	401	319	319	83	401	1	319	7.1e-190	672.5	1734
+scaffold1289_g23.t1	A9Y006.1	A9Y006.1 RecName: Full=Aquaporin-3; AltName: Full=Aquaglyceroporin-3	9823	98.3	370	290	290	79	368	1	290	4.0e-163	583.6	1503
+scaffold2382_g50.t1	A4FV58.2	A4FV58.2 RecName: Full=Cytosolic Fe-S cluster assembly factor NARFL; AltName: Full=Iron-only hydrogenase-like protein 1; Short=IOP1; AltName: Full=Nuclear prelamin A recognition factor-like protein	9913	95.8	554	476	476	79	554	1	476	1.2e-267	931.4	2406
+scaffold2762_g6.t1	AAA30560.1	AAA30560.1 GTP-binding regulatory protein (G-s-alpha) [Bos taurus]	9913	98.0	472	394	394	79	472	1	394	1.8e-213	751.1	1938
+scaffold3496_g56.t1	AAA30655.1	AAA30655.1 manganous superoxide dismutase, partial [Bos taurus]	9913	96.8	300	231	222	79	300	10	231	2.5e-123	451.1	1159
+scaffold4007_g51.t1	AAA30381.1	AAA30381.1 apolipoprotein A-I precursor [Bos taurus]	9913	97.1	344	265	68	95	162	16	83	9.2e-29	137.1	344
+scaffold4007_g51.t1	AAA30992.1	AAA30992.1 apolipoprotein A-I [Sus scrofa]	9823	89.7	344	265	68	95	162	16	83	2.5e-26	129.0	323
+scaffold850_g33.t1	A6QQY4.1	A6QQY4.1 RecName: Full=HORMA domain-containing protein 2	9913	75.4	248	306	175	75	248	99	273	7.0e-63	250.0	637
+scaffold1463_g50.t1	AAA30661.1	AAA30661.1 NADH dehydrogenase, partial [Bos taurus]	9913	98.9	542	490	469	73	541	21	489	1.5e-275	957.6	2474
+scaffold3575_g91.t1	A1XQR6.1	A1XQR6.1 RecName: Full=Reactive oxygen species modulator 1; Short=ROS modulator 1; AltName: Full=Protein MGR2 homolog	9823	98.3	157	79	60	1	60	1	60	3.7e-25	124.0	310
+scaffold3929_g44.t1	A5D962.1	A5D962.1 RecName: Full=PHD finger protein 23; AltName: Full=PDH-containing protein JUNE-1	9913	77.4	407	400	424	1	407	1	400	1.7e-122	448.7	1153
+scaffold3929_g44.t2	A5D962.1	A5D962.1 RecName: Full=PHD finger protein 23; AltName: Full=PDH-containing protein JUNE-1	9913	95.0	480	400	402	79	480	1	400	3.7e-169	604.0	1556
+scaffold2097_g21.t1	AAA03341.1	AAA03341.1 ribosomal protein L23a, partial [Homo sapiens]	9606	95.7	218	156	138	81	218	1	138	2.8e-55	224.6	571
+scaffold2097_g22.t1	AAA31120.1	AAA31120.1 succinyl-CoA synthetase beta-subunit, partial [Sus scrofa]	9823	98.3	510	417	417	94	510	1	417	9.2e-227	795.4	2053
+scaffold4798_g25.t2	AAA30499.1	AAA30499.1 elastin-cBEL1, partial [Bos taurus]	9913	98.4	1203	650	61	1143	1203	590	650	2.8e-24	124.0	310
+scaffold4798_g25.t2	AAA30498.1	AAA30498.1 elastin, partial [Bos taurus]	9913	98.4	1203	707	61	1143	1203	647	707	2.8e-24	124.0	310
+scaffold4798_g25.t3	AAA30499.1	AAA30499.1 elastin-cBEL1, partial [Bos taurus]	9913	98.4	1204	650	61	1144	1204	590	650	2.8e-24	124.0	310
+scaffold4798_g25.t3	AAA30498.1	AAA30498.1 elastin, partial [Bos taurus]	9913	98.4	1204	707	61	1144	1204	647	707	2.8e-24	124.0	310
+scaffold4798_g25.t4	AAA30499.1	AAA30499.1 elastin-cBEL1, partial [Bos taurus]	9913	98.4	1194	650	61	1134	1194	590	650	2.8e-24	124.0	310
+scaffold4798_g25.t4	AAA30498.1	AAA30498.1 elastin, partial [Bos taurus]	9913	98.4	1194	707	61	1134	1194	647	707	2.8e-24	124.0	310
+scaffold4798_g25.t6	AAA30498.1	AAA30498.1 elastin, partial [Bos taurus]	9913	98.4	1169	707	61	1109	1169	647	707	2.7e-24	124.0	310
+scaffold4798_g25.t6	AAA30499.1	AAA30499.1 elastin-cBEL1, partial [Bos taurus]	9913	98.4	1169	650	61	1109	1169	590	650	2.7e-24	124.0	310
+scaffold3839_g13.t1	A6QP72.1	A6QP72.1 RecName: Full=Diacylglycerol O-acyltransferase 2-like protein 6	9913	90.8	334	337	250	85	334	88	337	3.6e-131	477.2	1227
+scaffold918_g54.t1	A6H768.2	A6H768.2 RecName: Full=Galactokinase; AltName: Full=Galactose kinase	9913	98.2	470	392	391	79	469	1	391	1.2e-212	748.4	1931
+scaffold4275_g40.t1	AAA30610.1	AAA30610.1 lactoferrin [Bos taurus]	9913	92.2	742	708	664	79	742	45	708	0.0e+00	1277.7	3305
+scaffold1006_g29.t2	AAA20643.1	AAA20643.1 smooth muscle myosin alkali light chain [Homo sapiens]	9606	95.5	229	157	157	79	229	1	157	1.1e-78	302.4	773
+scaffold6177_g106.t1	A0JN80.2	A0JN80.2 RecName: Full=DIS3-like exonuclease 1	9913	98.5	1131	1053	1053	79	1131	1	1053	0.0e+00	2099.7	5439
+scaffold2795_g17.t1	A4K436.1	A4K436.1 RecName: Full=Regulator of telomere elongation helicase 1	9913	91.2	1345	1216	1267	79	1345	1	1216	0.0e+00	2288.5	5929
+scaffold2795_g17.t2	A4K436.1	A4K436.1 RecName: Full=Regulator of telomere elongation helicase 1	9913	91.2	1345	1216	1267	79	1345	1	1216	0.0e+00	2288.5	5929
+scaffold2795_g17.t3	A4K436.1	A4K436.1 RecName: Full=Regulator of telomere elongation helicase 1	9913	91.3	1344	1216	1266	79	1344	1	1216	0.0e+00	2288.8	5930
+scaffold936_g34.t1	AAA30391.1	AAA30391.1 H+-ATPase B subunit [Bos taurus]	9913	99.6	589	511	509	79	587	1	509	3.8e-293	1016.1	2626
+scaffold5960_g18.t1	A6QLR3.2	A6QLR3.2 RecName: Full=BRISC complex subunit Abraxas 2; AltName: Full=Abraxas brother protein 1; AltName: Full=Protein FAM175B	9913	76.5	348	409	319	79	341	90	408	3.8e-123	450.7	1158
+scaffold2243_g82.t1	AAA30370.1	AAA30370.1 aldose reductase (EC 1.1.1.21), partial [Bos taurus]	9913	98.6	394	296	296	99	394	1	296	2.0e-173	617.8	1592
+scaffold2243_g82.t2	AAA30370.1	AAA30370.1 aldose reductase (EC 1.1.1.21), partial [Bos taurus]	9913	98.6	394	296	296	99	394	1	296	2.0e-173	617.8	1592
+scaffold2243_g82.t3	AAA30370.1	AAA30370.1 aldose reductase (EC 1.1.1.21), partial [Bos taurus]	9913	89.1	420	296	322	99	420	1	296	4.8e-165	590.1	1520
+scaffold1426_g18.t1	A7E379.2	A7E379.2 RecName: Full=Protein tyrosine phosphatase domain-containing protein 1	9913	96.4	832	796	727	105	831	71	796	0.0e+00	1414.4	3660
+scaffold1975_g81.t1	A1L504.2	A1L504.2 RecName: Full=Lipase maturation factor 2	9913	93.6	779	703	701	79	779	1	701	0.0e+00	1335.9	3456
+scaffold1975_g81.t2	A1L504.2	A1L504.2 RecName: Full=Lipase maturation factor 2	9913	93.6	779	703	701	79	779	1	701	0.0e+00	1335.9	3456
+scaffold1101_g42.t1	AAA30357.1	AAA30357.1 adrenodoxin precursor, partial [Bos taurus]	9913	97.8	264	186	186	79	264	1	186	1.3e-94	355.5	911
+scaffold694_g45.t1	A3KMX0.3	A3KMX0.3 RecName: Full=DNA excision repair protein ERCC-6-like 2	9913	95.4	1624	1558	1546	79	1624	13	1558	0.0e+00	2901.7	7521
+scaffold2427_g90.t1	AAA30355.1	AAA30355.1 ACTH receptor [Bos taurus]	9913	83.5	305	297	266	40	305	32	297	2.0e-115	424.9	1091
+scaffold2427_g90.t2	AAA30355.1	AAA30355.1 ACTH receptor [Bos taurus]	9913	95.6	477	297	294	137	430	1	294	1.1e-152	549.3	1414
+scaffold2551_g6.t2	AAA17496.1	AAA17496.1 cAMP-responsive element modulator [Mus musculus]	10090	100.0	180	229	102	79	180	128	229	3.7e-45	190.7	483
+scaffold2551_g6.t4	AAA17497.1	AAA17497.1 cAMP-responsive element modulator [Mus musculus]	10090	100.0	180	229	102	79	180	128	229	4.3e-46	193.7	491
+scaffold4654_g38.t1	AAA20231.1	AAA20231.1 neuronal kinesin heavy chain [Homo sapiens]	9606	97.5	1108	1032	1032	79	1108	1	1032	0.0e+00	1750.3	4532
+scaffold4701_g74.t1	AAA30548.1	AAA30548.1 glycoprotein IIa, partial [Bos taurus]	9913	89.4	487	408	406	82	487	3	408	7.3e-189	669.5	1726
+scaffold4701_g74.t2	AAA30548.1	AAA30548.1 glycoprotein IIa, partial [Bos taurus]	9913	89.4	487	408	406	82	487	3	408	7.3e-189	669.5	1726
+scaffold4701_g74.t3	AAA30548.1	AAA30548.1 glycoprotein IIa, partial [Bos taurus]	9913	70.6	595	408	514	82	595	3	408	4.3e-175	624.0	1608
+scaffold2379_g63.t1	AAA18951.1	AAA18951.1 protein kinase C receptor [Rattus norvegicus]	10116	93.6	180	317	47	1	47	217	263	2.0e-19	105.1	261
+scaffold6020_g57.t1	AAA03341.1	AAA03341.1 ribosomal protein L23a, partial [Homo sapiens]	9606	100.0	255	156	131	125	255	26	156	2.2e-64	255.0	650
+scaffold2411_g52.t1	AAA18926.1	AAA18926.1 3',5'-cyclic AMP phosphodiesterase [Rattus norvegicus]	10116	83.3	551	564	558	1	551	22	564	1.2e-256	894.8	2311
+scaffold2411_g52.t2	AAA18926.1	AAA18926.1 3',5'-cyclic AMP phosphodiesterase [Rattus norvegicus]	10116	77.5	592	564	599	1	592	22	564	1.4e-250	874.8	2259
+scaffold234_g24.t1	AAA16222.1	AAA16222.1 glucose-6-phosphatase [Homo sapiens]	9606	94.2	271	357	120	79	198	1	119	1.6e-60	242.3	617
+scaffold4609_g49.t1	AAA20993.1	AAA20993.1 NF45 protein [Homo sapiens]	9606	100.0	430	406	321	79	399	39	359	1.6e-176	628.2	1619
+scaffold525_g39.t1	AAA30380.1	AAA30380.1 alkaline phosphatase precursor (EC 3.1.3.2) [Bos taurus]	9913	97.3	602	524	524	79	602	1	524	1.3e-288	1001.1	2587
+scaffold525_g39.t2	AAA30380.1	AAA30380.1 alkaline phosphatase precursor (EC 3.1.3.2) [Bos taurus]	9913	97.3	602	524	524	79	602	1	524	1.3e-288	1001.1	2587
+scaffold1686_g50.t1	A2NJV5.2	A2NJV5.2 RecName: Full=Immunoglobulin kappa variable 2-29; Flags: Precursor	9606	80.0	370	120	120	246	365	1	120	1.3e-49	206.5	524
+scaffold6243_g58.t1	A6QLY7.1	A6QLY7.1 RecName: Full=Pre-B-cell leukemia transcription factor-interacting protein 1; AltName: Full=Hematopoietic PBX-interacting protein	9913	85.3	839	727	761	79	839	1	727	7.8e-308	1065.4	2754
+scaffold6243_g58.t2	A6QLY7.1	A6QLY7.1 RecName: Full=Pre-B-cell leukemia transcription factor-interacting protein 1; AltName: Full=Hematopoietic PBX-interacting protein	9913	89.0	807	727	729	79	807	1	727	0.0e+00	1082.4	2798
+scaffold6243_g58.t3	A6QLY7.1	A6QLY7.1 RecName: Full=Pre-B-cell leukemia transcription factor-interacting protein 1; AltName: Full=Hematopoietic PBX-interacting protein	9913	88.9	806	727	729	79	806	1	727	0.0e+00	1076.2	2782
+scaffold6404_g3.t5	A6QNR0.2	A6QNR0.2 RecName: Full=Hexosaminidase D; AltName: Full=Beta-N-acetylhexosaminidase; AltName: Full=Beta-hexosaminidase D; AltName: Full=Hexosaminidase domain-containing protein; AltName: Full=N-acetyl-beta-galactosaminidase	9913	81.2	500	346	383	87	469	1	328	1.2e-175	625.5	1612
+scaffold163_g23.t1	A1A4L5.1	A1A4L5.1 RecName: Full=Alkylated DNA repair protein alkB homolog 8; AltName: Full=Probable alpha-ketoglutarate-dependent dioxygenase ABH8; AltName: Full=S-adenosyl-L-methionine-dependent tRNA methyltransferase ABH8; AltName: Full=tRNA (carboxymethyluridine(34)-5-O)-methyltransferase ABH8	9913	98.1	508	664	429	79	507	1	429	2.7e-247	863.6	2230
+scaffold163_g23.t2	A1A4L5.1	A1A4L5.1 RecName: Full=Alkylated DNA repair protein alkB homolog 8; AltName: Full=Probable alpha-ketoglutarate-dependent dioxygenase ABH8; AltName: Full=S-adenosyl-L-methionine-dependent tRNA methyltransferase ABH8; AltName: Full=tRNA (carboxymethyluridine(34)-5-O)-methyltransferase ABH8	9913	98.1	515	664	429	86	514	1	429	2.8e-247	863.6	2230
+scaffold4565_g11.t2	A6QPR6.2	A6QPR6.2 RecName: Full=RNA binding protein fox-1 homolog 2; AltName: Full=Fox-1 homolog B; AltName: Full=RNA-binding motif protein 9; AltName: Full=RNA-binding protein 9	9913	99.7	449	394	369	81	449	26	394	4.4e-172	613.6	1581
+scaffold4565_g11.t3	A6QPR6.2	A6QPR6.2 RecName: Full=RNA binding protein fox-1 homolog 2; AltName: Full=Fox-1 homolog B; AltName: Full=RNA-binding motif protein 9; AltName: Full=RNA-binding protein 9	9913	99.7	449	394	369	81	449	26	394	4.4e-172	613.6	1581
+scaffold109_g55.t1	AAA18951.1	AAA18951.1 protein kinase C receptor [Rattus norvegicus]	10116	99.7	395	317	317	79	395	1	317	1.2e-160	575.5	1482
+scaffold2855_g66.t1	AAA02963.1	AAA02963.1 transcription factor [Homo sapiens]	9606	99.3	515	468	414	79	492	1	414	1.7e-236	827.8	2137
+scaffold2855_g66.t2	AAA02963.1	AAA02963.1 transcription factor [Homo sapiens]	9606	99.4	546	468	468	79	546	1	468	5.5e-270	939.1	2426
+scaffold2309_g63.t1	AAA30446.1	AAA30446.1 chymosin [Bos taurus]	9913	95.0	645	381	361	285	645	21	381	4.2e-200	707.2	1824
+scaffold2309_g63.t1	AAA30447.1	AAA30447.1 preprochymosin a [Bos taurus]	9913	94.5	645	381	361	285	645	21	381	7.8e-199	703.0	1813
+scaffold5092_g18.t1	A2I7N0.1	A2I7N0.1 RecName: Full=Serpin A3-4; Flags: Precursor	9913	84.1	460	411	384	76	459	27	410	9.9e-180	639.0	1647
+scaffold5092_g18.t2	A2I7N0.1	A2I7N0.1 RecName: Full=Serpin A3-4; Flags: Precursor	9913	64.7	253	411	255	11	252	164	410	1.9e-79	305.1	780
+scaffold5092_g19.t1	A2I7N3.1	A2I7N3.1 RecName: Full=Serpin A3-7; Flags: Precursor	9913	83.2	489	417	410	80	488	7	416	6.2e-188	666.4	1718
+scaffold5092_g20.t1	A2I7N0.1	A2I7N0.1 RecName: Full=Serpin A3-4; Flags: Precursor	9913	79.2	492	411	414	79	492	1	411	4.2e-176	627.1	1616
+scaffold5092_g20.t2	A2I7N0.1	A2I7N0.1 RecName: Full=Serpin A3-4; Flags: Precursor	9913	79.2	492	411	414	79	492	1	411	4.2e-176	627.1	1616
+scaffold5092_g22.t1	A2I7N0.1	A2I7N0.1 RecName: Full=Serpin A3-4; Flags: Precursor	9913	67.0	254	411	230	38	254	183	411	2.0e-73	285.0	728
+scaffold5092_g23.t1	A6QPQ2.1	A6QPQ2.1 RecName: Full=Serpin A3-8; Flags: Precursor	9913	88.9	490	418	413	79	490	6	418	3.1e-203	717.2	1850
+scaffold5092_g24.t1	A2I7N0.1	A2I7N0.1 RecName: Full=Serpin A3-4; Flags: Precursor	9913	76.2	162	411	84	69	152	125	208	1.1e-24	122.5	306
+scaffold7550_g45.t1	A1XQR6.1	A1XQR6.1 RecName: Full=Reactive oxygen species modulator 1; Short=ROS modulator 1; AltName: Full=Protein MGR2 homolog	9823	96.7	157	79	60	1	60	1	60	1.4e-24	122.1	305
+scaffold1765_g64.t1	AAA30751.1	AAA30751.1 retinaldehyde-binding protein precursor [Bos taurus]	9913	98.1	418	317	313	106	418	5	317	1.8e-172	614.8	1584
+scaffold15074_g36.t1	AAA30490.1	AAA30490.1 dopamine beta-hydroxylase precursor (EC 1.14.17.1) [Bos taurus]	9913	86.9	703	597	597	92	655	1	597	0.0e+00	1096.3	2834
+scaffold15074_g36.t2	AAA30490.1	AAA30490.1 dopamine beta-hydroxylase precursor (EC 1.14.17.1) [Bos taurus]	9913	86.9	703	597	597	92	655	1	597	0.0e+00	1096.3	2834
+scaffold15074_g36.t3	AAA30490.1	AAA30490.1 dopamine beta-hydroxylase precursor (EC 1.14.17.1) [Bos taurus]	9913	81.1	275	597	169	79	227	429	597	2.0e-74	288.5	737
+scaffold2561_g43.t1	AAA30697.1	AAA30697.1 pyruvate dehydrogenase phosphatase [Bos taurus]	9913	99.6	616	592	538	79	616	55	592	0.0e+00	1102.4	2850
+scaffold3062_g12.t1	AAA31096.1	AAA31096.1 pepsinogen A precursor [Sus scrofa]	9823	74.9	1226	385	367	887	1226	19	385	8.6e-154	554.3	1427
+scaffold3062_g12.t1	AAA31095.1	AAA31095.1 pepsinogen precursor [Sus scrofa]	9823	74.7	1226	386	368	887	1226	19	386	1.2e-152	550.4	1417
+scaffold3062_g12.t2	AAA31096.1	AAA31096.1 pepsinogen A precursor [Sus scrofa]	9823	74.9	437	385	386	79	437	1	385	1.3e-160	575.5	1482
+scaffold3062_g12.t2	AAA31095.1	AAA31095.1 pepsinogen precursor [Sus scrofa]	9823	74.7	437	386	387	79	437	1	386	1.8e-159	571.6	1472
+scaffold3062_g12.t3	AAA31096.1	AAA31096.1 pepsinogen A precursor [Sus scrofa]	9823	74.9	729	385	367	390	729	19	385	5.1e-154	554.3	1427
+scaffold3062_g12.t3	AAA31095.1	AAA31095.1 pepsinogen precursor [Sus scrofa]	9823	74.7	729	386	368	390	729	19	386	7.4e-153	550.4	1417
+scaffold338_g17.t1	AAA30513.1	AAA30513.1 factor V [Bos taurus]	9913	69.5	2036	2206	2382	79	2036	1	2206	0.0e+00	2486.1	6442
+scaffold3047_g8.t1	AAA03081.1	AAA03081.1 ribosomal protein L7 [Homo sapiens]	9606	90.7	328	248	182	145	326	67	248	2.7e-86	328.2	840
+scaffold11132_g31.t1	AAA31057.1	AAA31057.1 inhibin A-subunit precursor [Sus scrofa]	9823	85.8	439	364	365	79	439	1	364	1.2e-179	638.6	1646
+scaffold1057_g5.t1	AAA30529.1	AAA30529.1 farnesyl-protein transferase alpha-subunit [Bos taurus]	9913	99.0	444	329	315	130	444	15	329	8.8e-117	429.9	1104
+scaffold6545_g20.t1	AAA31029.1	AAA31029.1 erythropoietin, partial [Sus scrofa]	9823	88.1	219	190	143	78	219	48	190	1.2e-61	245.7	626
+scaffold2607_g43.t1	A7Z064.2	A7Z064.2 RecName: Full=3-hydroxy-3-methylglutaryl-coenzyme A reductase; Short=HMG-CoA reductase	9913	98.2	959	888	884	76	959	5	888	0.0e+00	1703.0	4409
+scaffold6374_g35.t1	AAA30720.1	AAA30720.1 polyubiquitin, partial [Bos taurus]	9913	100.0	54	164	27	1	27	12	38	7.2e-05	55.1	131
+scaffold3691_g41.t1	AAA30349.1	AAA30349.1 33-kDa phototransducing protein, partial [Bos taurus]	9913	97.1	252	238	174	79	252	65	238	2.8e-91	344.4	882
+scaffold7997_g7.t1	AAA31118.1	AAA31118.1 ryanodine receptor [Sus scrofa]	9823	87.3	4713	5035	5020	17	4713	92	5035	0.0e+00	7843.4	20350
+scaffold5651_g37.t1	AAA30377.1	AAA30377.1 S-antigen [Bos taurus]	9913	87.9	454	404	404	79	454	1	404	1.7e-192	681.4	1757
+scaffold4315_g65.t1	AAA30431.1	AAA30431.1 beta-casein [Bos taurus]	9913	76.3	500	224	224	265	479	1	223	2.9e-76	295.4	755
+scaffold9194_g19.t1	A7MBG0.2	A7MBG0.2 RecName: Full=Adenylosuccinate synthetase isozyme 2; Short=AMPSase 2; Short=AdSS 2; AltName: Full=Adenylosuccinate synthetase, acidic isozyme; AltName: Full=Adenylosuccinate synthetase, liver isozyme; Short=L-type adenylosuccinate synthetase; AltName: Full=IMP--aspartate ligase 2	9913	99.1	534	456	456	79	534	1	456	4.3e-267	929.5	2401
+scaffold4989_g30.t1	A6QP74.2	A6QP74.2 RecName: Full=Calcitonin gene-related peptide type 1 receptor; Short=CGRP type 1 receptor; AltName: Full=Calcitonin receptor-like receptor; Flags: Precursor	9913	92.4	389	462	340	71	389	123	462	5.5e-171	609.8	1571
+scaffold2814_g2.t1	A6QPY0.2	A6QPY0.2 RecName: Full=Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit; Short=DDOST 48 kDa subunit; Short=Oligosaccharyl transferase 48 kDa subunit; Flags: Precursor	9913	98.2	517	439	439	79	517	1	439	1.2e-245	858.2	2216
+scaffold5007_g43.t1	AAA19133.1	AAA19133.1 protein tyrosine phosphatase [Rattus norvegicus]	10116	96.1	308	597	230	79	308	1	230	4.2e-126	460.3	1183
+scaffold3377_g1.t1	AAA21440.1	AAA21440.1 nicotinamide nucleotide transhydrogenase, partial [Bos taurus]	9913	95.5	205	1035	134	72	205	902	1035	1.6e-65	258.5	659
+scaffold4204_g42.t1	AAA30522.1	AAA30522.1 follistatin [Bos taurus]	9913	98.1	401	344	323	79	401	22	344	2.0e-184	654.4	1687
+scaffold10304_g13.t1	AAA30720.1	AAA30720.1 polyubiquitin, partial [Bos taurus]	9913	99.4	154	164	154	1	154	12	164	4.0e-77	296.6	758
+scaffold7191_g47.t1	A4FV97.1	A4FV97.1 RecName: Full=Ribosomal L1 domain-containing protein 1	9913	91.3	560	482	482	79	560	1	482	6.8e-215	756.1	1951
+scaffold12282_g29.t1	A5PK51.2	A5PK51.2 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase; AltName: Full=Nicotinate phosphoribosyltransferase domain-containing protein 1	9913	96.5	611	538	538	79	611	1	538	4.4e-292	1012.7	2617
+scaffold12282_g29.t2	A5PK51.2	A5PK51.2 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase; AltName: Full=Nicotinate phosphoribosyltransferase domain-containing protein 1	9913	96.5	611	538	538	79	611	1	538	4.4e-292	1012.7	2617
+scaffold12282_g29.t3	A5PK51.2	A5PK51.2 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase; AltName: Full=Nicotinate phosphoribosyltransferase domain-containing protein 1	9913	95.1	789	538	528	79	601	1	528	1.1e-282	981.9	2537
+scaffold12282_g29.t4	A5PK51.2	A5PK51.2 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase; AltName: Full=Nicotinate phosphoribosyltransferase domain-containing protein 1	9913	96.4	791	538	528	79	601	1	528	1.2e-286	995.0	2571
+scaffold484_g68.t1	A7YY53.2	A7YY53.2 RecName: Full=Manganese-dependent ADP-ribose/CDP-alcohol diphosphatase; AltName: Full=ADPRibase-Mn; AltName: Full=CDP-choline phosphohydrolase	9913	96.5	283	337	201	79	279	1	201	3.5e-111	410.6	1054
+scaffold484_g68.t2	A7YY53.2	A7YY53.2 RecName: Full=Manganese-dependent ADP-ribose/CDP-alcohol diphosphatase; AltName: Full=ADPRibase-Mn; AltName: Full=CDP-choline phosphohydrolase	9913	96.7	415	337	337	79	415	1	337	7.5e-195	689.1	1777
+scaffold3647_g35.t1	AAA30582.1	AAA30582.1 insulin-like growth factor binding protein-3 [Bos taurus]	9913	94.2	371	291	293	79	371	1	291	1.4e-160	575.1	1481
+scaffold4328_g43.t1	AAA30357.1	AAA30357.1 adrenodoxin precursor, partial [Bos taurus]	9913	95.6	163	186	45	119	163	142	186	8.8e-14	86.3	212
+scaffold25675_g45.t1	AAA02855.1	AAA02855.1 neurexin III-alpha precursor [Rattus norvegicus]	10116	63.8	228	1395	116	24	138	1043	1152	2.3e-28	135.2	339
+scaffold25675_g45.t1	AAA02858.1	AAA02858.1 neurexin III-alpha [Rattus norvegicus]	10116	63.8	228	1438	116	24	138	1043	1152	2.3e-28	135.2	339
+scaffold25675_g45.t1	AAA02854.1	AAA02854.1 neurexin III-alpha [Rattus norvegicus]	10116	63.8	228	1378	116	24	138	1043	1152	2.3e-28	135.2	339
+scaffold25675_g45.t1	AAA02856.1	AAA02856.1 neurexin III-alpha [Rattus norvegicus]	10116	63.8	228	1471	116	24	138	1043	1152	2.3e-28	135.2	339
+scaffold25675_g45.t1	AAA02853.1	AAA02853.1 neurexin III-alpha [Rattus norvegicus]	10116	63.8	228	1399	116	24	138	1043	1152	2.3e-28	135.2	339
+scaffold3677_g18.t1	AAA20497.1	AAA20497.1 vesicular acetylcholine transporter [Homo sapiens]	9606;32630;1958742	83.6	602	532	532	79	602	1	532	8.8e-237	828.9	2140
+scaffold9503_g40.t1	A5PKK7.2	A5PKK7.2 RecName: Full=RAB6-interacting golgin; AltName: Full=N-terminal kinase-like-binding protein 1; Short=NTKL-BP1; Short=NTKL-binding protein 1; AltName: Full=SCY1-like 1-binding protein 1; Short=SCYL1-BP1; Short=SCYL1-binding protein 1	9913	92.8	470	370	334	79	412	1	334	8.7e-139	503.1	1294
+scaffold9503_g40.t2	A5PKK7.2	A5PKK7.2 RecName: Full=RAB6-interacting golgin; AltName: Full=N-terminal kinase-like-binding protein 1; Short=NTKL-BP1; Short=NTKL-binding protein 1; AltName: Full=SCY1-like 1-binding protein 1; Short=SCYL1-BP1; Short=SCYL1-binding protein 1	9913	92.7	448	370	370	79	448	1	370	1.1e-156	562.4	1448
+scaffold9503_g40.t3	A5PKK7.2	A5PKK7.2 RecName: Full=RAB6-interacting golgin; AltName: Full=N-terminal kinase-like-binding protein 1; Short=NTKL-BP1; Short=NTKL-binding protein 1; AltName: Full=SCY1-like 1-binding protein 1; Short=SCYL1-BP1; Short=SCYL1-binding protein 1	9913	92.8	447	370	334	79	412	1	334	4.8e-139	503.8	1296
+scaffold9503_g40.t4	A5PKK7.2	A5PKK7.2 RecName: Full=RAB6-interacting golgin; AltName: Full=N-terminal kinase-like-binding protein 1; Short=NTKL-BP1; Short=NTKL-binding protein 1; AltName: Full=SCY1-like 1-binding protein 1; Short=SCYL1-BP1; Short=SCYL1-binding protein 1	9913	92.8	415	370	334	79	412	1	334	7.7e-139	503.1	1294
+scaffold7259_g40.t1	AAA03081.1	AAA03081.1 ribosomal protein L7 [Homo sapiens]	9606	91.7	231	248	156	76	231	61	216	1.8e-73	285.0	728
+scaffold15066_g49.t1	A1A4L8.2	A1A4L8.2 RecName: Full=Adenylyltransferase and sulfurtransferase MOCS3; AltName: Full=Molybdenum cofactor synthesis protein 3; Includes: RecName: Full=Molybdopterin-synthase adenylyltransferase; AltName: Full=Adenylyltransferase MOCS3; AltName: Full=Sulfur carrier protein MOCS2A adenylyltransferase; Includes: RecName: Full=Molybdopterin-synthase sulfurtransferase; AltName: Full=Sulfur carrier protein MOCS2A sulfurtransferase; AltName: Full=Sulfurtransferase MOCS3	9913	98.0	533	455	455	79	533	1	455	3.4e-248	866.7	2238
+scaffold13243_g47.t1	AAA30765.1	AAA30765.1 chromogranin A [Bos taurus]	9913	79.1	509	449	455	79	509	1	449	1.5e-144	522.3	1344
+scaffold4060_g32.t1	A1A4L5.1	A1A4L5.1 RecName: Full=Alkylated DNA repair protein alkB homolog 8; AltName: Full=Probable alpha-ketoglutarate-dependent dioxygenase ABH8; AltName: Full=S-adenosyl-L-methionine-dependent tRNA methyltransferase ABH8; AltName: Full=tRNA (carboxymethyluridine(34)-5-O)-methyltransferase ABH8	9913	93.2	313	664	235	79	313	430	664	1.6e-125	458.4	1178
+scaffold4686_g47.t1	AAA30392.1	AAA30392.1 vacuolar H+-ATPase A subunit [Bos taurus]	9913	99.7	696	617	617	80	696	1	617	0.0e+00	1231.9	3186
+scaffold4686_g47.t2	AAA30392.1	AAA30392.1 vacuolar H+-ATPase A subunit [Bos taurus]	9913	99.7	696	617	617	80	696	1	617	0.0e+00	1231.9	3186
+scaffold6353_g4.t1	AAA03081.1	AAA03081.1 ribosomal protein L7 [Homo sapiens]	9606	91.7	324	248	229	79	305	1	229	8.2e-96	359.8	922
+scaffold6653_g17.t1	AAA03081.1	AAA03081.1 ribosomal protein L7 [Homo sapiens]	9606	90.6	253	248	180	74	253	69	248	3.2e-87	330.9	847
+scaffold594_g52.t1	A6NIZ1.1	A6NIZ1.1 RecName: Full=Ras-related protein Rap-1b-like protein; Flags: Precursor	9606	98.9	262	184	184	79	262	1	184	1.3e-96	362.1	928
+scaffold5110_g35.t1	AAA30483.1	AAA30483.1 cytochrome b-5 reductase, partial [Bos taurus]	9913	100.0	112	300	56	1	56	245	300	2.1e-27	131.0	328
+scaffold32050_g20.t1	AAA30483.1	AAA30483.1 cytochrome b-5 reductase, partial [Bos taurus]	9913	96.1	102	300	51	2	52	1	51	4.3e-19	103.2	256
+scaffold7995_g42.t1	AAA30701.1	AAA30701.1 phospholipase C [Bos taurus]	9913	88.7	383	919	337	79	383	237	573	4.4e-165	590.1	1520
+scaffold26592_g5.t1	AAA30720.1	AAA30720.1 polyubiquitin, partial [Bos taurus]	9913	82.3	108	164	130	1	108	35	164	1.1e-49	204.9	520
+scaffold6636_g34.t1	A6QP84.2	A6QP84.2 RecName: Full=Solute carrier family 10 member 6; AltName: Full=Sodium-dependent organic anion transporter	9913	60.2	363	377	347	13	356	77	340	4.0e-91	344.4	882
+qseqid	sseqid	stitle	staxids	pident	qlen	slen	length	qstart	qend	sstart	send	evalue	bitscore	score
+scaffold1292_g1.t1	XP_006063406.1	XP_006063406.1 PREDICTED: craniofacial development protein 2-like [Bubalus bubalis]	89462	67.2	383	592	265	122	383	180	444	3.3e-96	361.3	926
+scaffold1292_g1.t1	XP_005894368.1	XP_005894368.1 PREDICTED: craniofacial development protein 2 [Bos mutus]	72004	66.8	383	592	265	122	383	180	444	7.4e-96	360.1	923
+scaffold1292_g1.t1	XP_019834548.1	XP_019834548.1 PREDICTED: craniofacial development protein 2 [Bos indicus]	9915	66.8	383	673	265	122	383	261	525	9.7e-96	359.8	922
+scaffold1292_g1.t1	DAA20344.1	DAA20344.1 TPA: craniofacial development protein 2 [Bos taurus]	9913	66.8	383	592	265	122	383	180	444	9.7e-96	359.8	922
+scaffold1292_g1.t1	XP_010849052.1	XP_010849052.1 PREDICTED: craniofacial development protein 2 [Bison bison bison]	43346	66.8	383	673	265	122	383	261	525	9.7e-96	359.8	922
+scaffold1292_g1.t1	BAC15592.1	BAC15592.1 bcnt [Bos taurus]	9913	66.8	383	592	265	122	383	180	444	9.7e-96	359.8	922
+scaffold1292_g1.t1	NP_001272622.1	NP_001272622.1 p97Bcnt protein [Capra hircus]	9925	66.8	383	592	265	122	383	180	444	1.3e-95	359.4	921
+scaffold1292_g1.t1	BAE19808.1	BAE19808.1 bucentaur, partial [Muntiacus reevesi]	9886	67.8	383	516	258	129	383	189	446	1.7e-95	359.0	920
+scaffold1292_g1.t1	BAC78521.1	BAC78521.1 Bcnt, partial [Giraffa camelopardalis]	9894	67.8	383	378	258	129	383	43	300	1.7e-95	359.0	920
+scaffold1292_g1.t1	BAB90842.1	BAB90842.1 bucentaur, partial [Cervus nippon]	9863	67.8	383	369	258	129	383	45	302	1.7e-95	359.0	920
+scaffold1292_g1.t1	XP_005218404.1	XP_005218404.1 PREDICTED: bucentaur-2 isoform X2 [Bos taurus]	9913;9915	69.4	383	594	258	129	383	189	446	2.2e-95	358.6	919
+scaffold1292_g1.t1	XP_010849057.1	XP_010849057.1 PREDICTED: craniofacial development protein 2-like isoform X2 [Bison bison bison]	43346	69.4	383	618	258	129	383	173	430	2.2e-95	358.6	919
+scaffold1292_g1.t1	NP_001071387.1	NP_001071387.1 bucentaur-2 [Bos taurus]	9913;9915	69.4	383	634	258	129	383	189	446	2.2e-95	358.6	919
+scaffold1292_g1.t1	XP_020739667.1	XP_020739667.1 craniofacial development protein 2 isoform X2 [Odocoileus virginianus texanus]	9880	68.4	383	585	256	131	383	193	448	2.2e-95	358.6	919
+scaffold1292_g1.t1	XP_005894367.1	XP_005894367.1 PREDICTED: craniofacial development protein 2 [Bos mutus]	43346;72004	69.4	383	634	258	129	383	189	446	2.2e-95	358.6	919
+scaffold1292_g1.t1	ELR57387.1	ELR57387.1 hypothetical protein M91_03436 [Bos mutus]	72004	69.4	383	620	258	129	383	189	446	2.2e-95	358.6	919
+scaffold1292_g1.t1	XP_020739663.1	XP_020739663.1 craniofacial development protein 2 isoform X1 [Odocoileus virginianus texanus]	9880	68.4	383	596	256	131	383	193	448	2.2e-95	358.6	919
+scaffold1292_g1.t1	BAA21722.1	BAA21722.1 BCNT, partial [Bos taurus]	9913	66.8	383	391	265	122	383	49	313	2.8e-95	358.2	918
+scaffold1292_g1.t1	NP_777225.1	NP_777225.1 craniofacial development protein 2 [Bos taurus]	9913	66.8	383	592	265	122	383	180	444	2.8e-95	358.2	918
+scaffold1292_g1.t1	XP_005980195.1	XP_005980195.1 PREDICTED: craniofacial development protein 2-like [Pantholops hodgsonii]	59538	66.4	383	592	265	122	383	180	444	3.7e-95	357.8	917
+scaffold1292_g1.t1	XP_006063404.1	XP_006063404.1 PREDICTED: craniofacial development protein 2-like isoform X1 [Bubalus bubalis]	89462	69.4	383	634	258	129	383	189	446	3.7e-95	357.8	917
+scaffold1292_g1.t1	XP_012004131.1	XP_012004131.1 PREDICTED: craniofacial development protein 2 isoform X1 [Ovis aries musimon]	9938	66.4	383	578	265	122	383	180	444	4.8e-95	357.5	916
+scaffold1292_g1.t1	XP_012004130.1	XP_012004130.1 PREDICTED: craniofacial development protein 2 isoform X2 [Ovis aries musimon]	9938	66.4	383	592	265	122	383	180	444	4.8e-95	357.5	916
+scaffold1292_g1.t1	O02751.2	O02751.2 RecName: Full=Craniofacial development protein 2; AltName: Full=p97 bucentaur protein	9913	66.4	383	592	265	122	383	180	444	8.2e-95	356.7	914
+scaffold1292_g1.t1	XP_015275095.1	XP_015275095.1 PREDICTED: LOW QUALITY PROTEIN: craniofacial development protein 2-like, partial [Gekko japonicus]	146911	68.6	383	313	258	129	383	4	261	1.8e-94	355.5	911
+scaffold1292_g2.t1	ELR61013.1	ELR61013.1 hypothetical protein M91_09415, partial [Bos mutus]	72004	87.4	341	284	238	80	317	43	278	1.9e-111	411.8	1057
+scaffold1292_g2.t1	ELR45514.1	ELR45514.1 Transposon TX1 uncharacterized 149 kDa protein, partial [Bos mutus]	72004	86.6	341	284	238	80	317	42	279	2.1e-110	408.3	1048
+scaffold1292_g2.t1	ELR55019.1	ELR55019.1 hypothetical protein M91_00313, partial [Bos mutus]	72004	89.7	341	265	224	80	303	42	265	5.2e-109	403.7	1036
+scaffold1292_g2.t1	ELR52962.1	ELR52962.1 hypothetical protein M91_10256, partial [Bos mutus]	72004	89.5	341	232	219	91	309	3	221	1.3e-107	399.1	1024
+scaffold1292_g2.t1	ELR61473.1	ELR61473.1 hypothetical protein M91_11521, partial [Bos mutus]	72004	85.6	341	269	229	80	306	41	269	5.0e-104	387.1	993
+scaffold1292_g2.t1	ELR59241.1	ELR59241.1 hypothetical protein M91_10573, partial [Bos mutus]	72004	84.0	341	247	225	95	317	18	242	3.7e-99	370.9	951
+scaffold1292_g2.t1	ELR53589.1	ELR53589.1 hypothetical protein M91_10569, partial [Bos mutus]	72004	78.9	341	276	242	83	317	46	270	1.7e-96	362.1	928
+scaffold1292_g2.t1	WP_079014741.1	WP_079014741.1 hypothetical protein [Streptococcus pneumoniae]	1313	89.9	341	233	199	119	317	6	204	8.6e-96	359.8	922
+scaffold1292_g2.t1	ELR55418.1	ELR55418.1 hypothetical protein M91_04067, partial [Bos mutus]	72004	84.9	341	213	212	108	317	1	209	1.8e-93	352.1	902
+scaffold1292_g2.t1	ELR62451.1	ELR62451.1 hypothetical protein M91_01434, partial [Bos mutus]	72004	76.1	341	259	247	80	317	24	251	1.2e-92	349.4	895
+scaffold1292_g2.t1	ELR50351.1	ELR50351.1 hypothetical protein M91_11577, partial [Bos mutus]	72004	83.8	341	205	197	124	317	2	196	6.2e-86	327.0	837
+scaffold1292_g2.t1	CFA13538.1	CFA13538.1 Retron-type reverse transcriptase [Streptococcus pneumoniae]	1313	92.5	341	189	159	159	317	2	160	5.8e-76	293.9	751
+scaffold1292_g2.t1	KHJ42451.1	KHJ42451.1 reverse transcriptase [Trichuris suis]	68888	69.4	341	692	124	80	203	404	527	2.4e-45	192.2	487
+scaffold1292_g2.t1	KFD66335.1	KFD66335.1 hypothetical protein M514_21622 [Trichuris suis]	68888	69.4	341	567	124	80	203	426	549	2.4e-45	192.2	487
+scaffold1292_g2.t1	ELR58507.1	ELR58507.1 Putative uncharacterized transposon-derived protein F52C9.6, partial [Bos mutus]	72004	88.9	341	177	108	210	317	18	124	4.6e-41	177.9	450
+scaffold1292_g2.t1	WP_077250056.1	WP_077250056.1 hypothetical protein [Escherichia coli]	562	89.5	341	77	76	191	266	1	76	2.6e-28	135.6	340
+scaffold1292_g2.t1	CDJ82682.1	CDJ82682.1 RNA-directed DNA polymerase (reverse transcriptase) domain containing protein [Haemonchus contortus]	6289	87.5	341	233	72	2	73	159	230	2.5e-26	129.0	323
+scaffold1292_g2.t1	XP_017908344.1	XP_017908344.1 PREDICTED: uncharacterized protein LOC108636664, partial [Capra hircus]	9925	85.5	341	227	69	2	70	159	227	1.8e-24	122.9	307
+scaffold1292_g2.t1	XP_009161998.1	XP_009161998.1 hypothetical protein T265_00077 [Opisthorchis viverrini]	6198	35.2	341	823	219	102	316	159	377	1.5e-23	119.8	299
+scaffold1292_g2.t1	XP_017908340.1	XP_017908340.1 PREDICTED: uncharacterized protein LOC108636661, partial [Capra hircus]	9925	84.1	341	227	69	2	70	159	227	2.0e-23	119.4	298
+scaffold1292_g2.t1	XP_009162918.1	XP_009162918.1 hypothetical protein T265_00782 [Opisthorchis viverrini]	6198	34.2	341	1583	219	102	316	191	409	3.3e-23	118.6	296
+scaffold1292_g2.t1	EYC11818.1	EYC11818.1 hypothetical protein Y032_0049g1791 [Ancylostoma ceylanicum]	53326	33.3	341	782	234	82	311	545	767	4.8e-22	114.8	286
+scaffold1292_g2.t1	XP_019841733.1	XP_019841733.1 PREDICTED: uncharacterized protein LOC109577282, partial [Bos indicus]	9915	79.7	341	216	69	2	70	148	216	6.3e-22	114.4	285
+scaffold1292_g2.t1	XP_011982355.1	XP_011982355.1 PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC105608296, partial [Ovis aries musimon]	9938	74.3	341	337	70	2	71	268	337	1.0e-19	107.1	266
+scaffold1292_g2.t1	OXA59193.1	OXA59193.1 LINE-1 retrotransposable element ORF2 protein [Folsomia candida]	158441	30.4	341	588	253	76	320	26	275	8.5e-19	104.0	258
+scaffold1292_g3.t1	XP_020738701.1	XP_020738701.1 5-hydroxytryptamine receptor 1B [Odocoileus virginianus texanus]	9880	98.3	364	403	290	75	364	114	403	1.0e-158	568.9	1465
+scaffold1292_g3.t1	XP_014946828.1	XP_014946828.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Ovis aries musimon]	9938	88.3	364	403	334	35	364	70	403	1.3e-158	568.5	1464
+scaffold1292_g3.t1	XP_006075282.1	XP_006075282.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Bubalus bubalis]	89462	88.3	364	403	334	35	364	70	403	1.3e-158	568.5	1464
+scaffold1292_g3.t1	XP_005684499.1	XP_005684499.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Capra hircus]	9925	88.3	364	403	334	35	364	70	403	1.3e-158	568.5	1464
+scaffold1292_g3.t1	XP_014952785.1	XP_014952785.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Ovis aries]	9940	88.0	364	403	334	35	364	70	403	5.0e-158	566.6	1459
+scaffold1292_g3.t1	DAA26389.1	DAA26389.1 TPA: 5-hydroxytryptamine (serotonin) receptor 1B [Bos taurus]	9913;72004	88.0	364	389	334	35	364	56	389	6.5e-158	566.2	1458
+scaffold1292_g3.t1	XP_005192444.1	XP_005192444.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Bos taurus]	9913;9915;72004	88.0	364	403	334	35	364	70	403	6.5e-158	566.2	1458
+scaffold1292_g3.t1	OWK01487.1	OWK01487.1 hypothetical protein Celaphus_00018757 [Cervus elaphus hippelaphus]	46360	97.9	364	558	290	75	364	269	558	6.5e-158	566.2	1458
+scaffold1292_g3.t1	XP_005961564.1	XP_005961564.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Pantholops hodgsonii]	59538	97.6	364	403	290	75	364	114	403	1.4e-157	565.1	1455
+scaffold1292_g3.t1	XP_010853552.1	XP_010853552.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Bison bison bison]	43346	87.7	364	403	334	35	364	70	403	1.4e-157	565.1	1455
+scaffold1292_g3.t1	XP_006729838.1	XP_006729838.1 PREDICTED: 5-hydroxytryptamine receptor 1B-like [Leptonychotes weddellii]	9713	84.5	364	389	335	35	363	54	388	1.4e-149	538.5	1386
+scaffold1292_g3.t1	XP_008683065.1	XP_008683065.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Ursus maritimus]	29073	84.2	364	389	335	35	363	54	388	7.2e-149	536.2	1380
+scaffold1292_g3.t1	EFB13008.1	EFB13008.1 hypothetical protein PANDA_016604, partial [Ailuropoda melanoleuca]	9646	84.2	364	388	335	35	363	54	388	7.2e-149	536.2	1380
+scaffold1292_g3.t1	XP_022359751.1	XP_022359751.1 5-hydroxytryptamine receptor 1B [Enhydra lutris kenyoni]	391180	84.2	364	389	335	35	363	54	388	7.2e-149	536.2	1380
+scaffold1292_g3.t1	XP_012646617.1	XP_012646617.1 5-hydroxytryptamine receptor 1B [Microcebus murinus]	30608	83.9	364	390	336	35	364	55	390	7.2e-149	536.2	1380
+scaffold1292_g3.t1	XP_002926886.1	XP_002926886.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Ailuropoda melanoleuca]	9646	84.2	364	389	335	35	363	54	388	7.2e-149	536.2	1380
+scaffold1292_g3.t1	XP_004417492.1	XP_004417492.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Odobenus rosmarus divergens]	9708	84.2	364	389	335	35	363	54	388	9.4e-149	535.8	1379
+scaffold1292_g3.t1	XP_008004603.1	XP_008004603.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Chlorocebus sabaeus]	60711	83.3	364	405	336	35	364	70	405	1.2e-148	535.4	1378
+scaffold1292_g3.t1	XP_006143395.1	XP_006143395.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Tupaia chinensis]	246437	83.9	364	390	336	35	364	55	390	1.2e-148	535.4	1378
+scaffold1292_g3.t1	XP_006090428.1	XP_006090428.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Myotis lucifugus]	59463	83.6	364	383	335	35	364	51	383	1.6e-148	535.0	1377
+scaffold1292_g3.t1	XP_002746791.1	XP_002746791.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Callithrix jacchus]	9483	83.9	364	391	336	35	364	56	391	1.6e-148	535.0	1377
+scaffold1292_g3.t1	XP_003923322.1	XP_003923322.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Saimiri boliviensis boliviensis]	39432	83.9	364	391	336	35	364	56	391	1.6e-148	535.0	1377
+scaffold1292_g3.t1	XP_012327315.1	XP_012327315.1 5-hydroxytryptamine receptor 1B [Aotus nancymaae]	37293	83.9	364	391	336	35	364	56	391	1.6e-148	535.0	1377
+scaffold1292_g3.t1	XP_017362326.1	XP_017362326.1 PREDICTED: 5-hydroxytryptamine receptor 1B [Cebus capucinus imitator]	1737458	83.9	364	391	336	35	364	56	391	1.6e-148	535.0	1377
+scaffold1292_g3.t1	NP_000854.1	NP_000854.1 5-hydroxytryptamine receptor 1B [Homo sapiens]	9597;9598;9606;32630;1958742	83.9	364	390	336	35	364	55	390	2.1e-148	534.6	1376
+scaffold1292_g4.t1	WP_090339543.1	WP_090339543.1 hypothetical protein [Mycobacterium malmesburyense]	1566886	88.2	620	404	408	209	616	1	399	2.5e-202	714.5	1843
+scaffold1292_g4.t1	XP_012770936.1	XP_012770936.1 hypothetical protein, conserved [Babesia bigemina]	5866	86.1	620	329	332	285	616	1	329	2.1e-156	562.0	1447
+scaffold1292_g4.t1	CAA10770.1	CAA10770.1 reverse transcriptase-like [Bos taurus]	9913	83.2	620	335	334	285	618	1	333	9.7e-154	553.1	1424
+scaffold1292_g4.t1	ELR61473.1	ELR61473.1 hypothetical protein M91_11521, partial [Bos mutus]	72004	89.2	620	269	269	167	433	1	269	6.5e-134	487.3	1253
+scaffold1292_g4.t1	ADI61814.1	ADI61814.1 endonuclease-reverse transcriptase [Bombyx mori]	7091	44.8	620	1017	536	81	612	474	1008	1.1e-130	476.5	1225
+scaffold1292_g4.t1	ADI61821.1	ADI61821.1 endonuclease-reverse transcriptase [Bombyx mori]	7091	44.5	620	980	519	75	583	464	977	4.2e-125	458.0	1177
+scaffold1292_g4.t1	ADI61816.1	ADI61816.1 endonuclease-reverse transcriptase [Bombyx mori]	7091	41.8	620	994	553	75	617	449	988	1.6e-124	456.1	1172
+scaffold1292_g4.t1	ELR52962.1	ELR52962.1 hypothetical protein M91_10256, partial [Bos mutus]	72004	93.5	620	232	230	218	447	3	232	2.8e-121	445.3	1144
+scaffold1292_g4.t1	ELR62451.1	ELR62451.1 hypothetical protein M91_01434, partial [Bos mutus]	72004	82.3	620	259	277	185	452	2	259	4.1e-120	441.4	1134
+scaffold1292_g4.t1	ADI61815.1	ADI61815.1 endonuclease-reverse transcriptase [Bombyx mori]	7091	42.3	620	1010	534	75	605	467	996	1.6e-119	439.5	1129
+scaffold1292_g4.t1	ADI61820.1	ADI61820.1 endonuclease-reverse transcriptase [Bombyx mori]	7091	41.6	620	1013	548	74	612	459	998	7.2e-117	430.6	1106
+scaffold1292_g4.t1	ELR56896.1	ELR56896.1 hypothetical protein M91_14973, partial [Bos mutus]	72004	86.7	620	249	249	206	450	1	249	2.7e-116	428.7	1101
+scaffold1292_g4.t1	ADI61825.1	ADI61825.1 endonuclease-reverse transcriptase [Bombyx mori]	7091	41.8	620	1104	533	81	604	557	1087	3.6e-116	428.3	1100
+scaffold1292_g4.t1	ADF18553.1	ADF18553.1 endonuclease-reverse transcriptase [Bombyx mori]	7091	40.6	620	989	535	81	605	471	980	7.5e-114	420.6	1080
+scaffold1292_g4.t1	ELR54835.1	ELR54835.1 hypothetical protein M91_02532, partial [Bos mutus]	72004	84.5	620	240	245	208	452	1	240	5.4e-112	414.5	1064
+scaffold1292_g4.t1	WP_079014741.1	WP_079014741.1 hypothetical protein [Streptococcus pneumoniae]	1313	94.9	620	233	214	250	463	10	223	7.0e-112	414.1	1063
+scaffold1292_g4.t1	ELR53760.1	ELR53760.1 Retrovirus-related Pol polyprotein from type-1 retrotransposable element R2, partial [Bos mutus]	72004	73.4	620	269	297	165	453	1	269	7.0e-112	414.1	1063
+scaffold1292_g4.t1	ELR59241.1	ELR59241.1 hypothetical protein M91_10573, partial [Bos mutus]	72004	85.0	620	247	247	206	449	1	247	4.5e-111	411.4	1056
+scaffold1292_g4.t1	ADI61828.1	ADI61828.1 endonuclease-reverse transcriptase [Bombyx mori]	7091	40.3	620	1011	541	81	611	469	1003	1.7e-110	409.5	1051
+scaffold1292_g4.t1	XP_012770481.1	XP_012770481.1 hypothetical protein, conserved [Babesia bigemina]	5866	92.4	620	211	211	341	551	1	211	6.3e-105	391.0	1003
+scaffold1292_g4.t1	ELR55418.1	ELR55418.1 hypothetical protein M91_04067, partial [Bos mutus]	72004	90.3	620	213	216	235	448	1	213	1.4e-104	389.8	1000
+scaffold1292_g4.t1	ADF18552.1	ADF18552.1 endonuclease-reverse transcriptase [Bombyx mori]	7091	37.2	620	977	537	76	605	437	969	1.8e-99	372.9	956
+scaffold1292_g4.t1	PCG69477.1	PCG69477.1 hypothetical protein B5V51_4051 [Heliothis virescens]	7102	37.4	620	944	521	72	583	401	915	8.6e-94	354.0	907
+scaffold1292_g4.t1	PCL34608.1	PCL34608.1 hypothetical protein CPZ19_15510, partial [Lactobacillus rhamnosus]	47715	83.5	620	206	206	389	594	1	206	5.8e-90	341.3	874
+scaffold26854_g69.t1	XP_020753549.1	XP_020753549.1 WW domain binding protein 1-like isoform X1 [Odocoileus virginianus texanus]	9880	98.6	389	367	279	111	389	89	367	1.8e-134	488.4	1256
+scaffold26854_g69.t1	XP_020753550.1	XP_020753550.1 WW domain binding protein 1-like isoform X2 [Odocoileus virginianus texanus]	9880	98.6	389	358	279	111	389	80	358	1.8e-134	488.4	1256
+scaffold26854_g69.t1	XP_020753551.1	XP_020753551.1 WW domain binding protein 1-like isoform X3 [Odocoileus virginianus texanus]	9880	98.6	389	346	279	111	389	68	346	1.8e-134	488.4	1256
+scaffold26854_g69.t1	XP_005698436.1	XP_005698436.1 PREDICTED: WW domain binding protein 1-like isoform X2 [Capra hircus]	9925	98.9	389	347	280	111	389	68	347	4.1e-134	487.3	1253
+scaffold26854_g69.t1	XP_005698435.1	XP_005698435.1 PREDICTED: WW domain binding protein 1-like isoform X1 [Capra hircus]	9925	98.9	389	368	280	111	389	89	368	4.1e-134	487.3	1253
+scaffold26854_g69.t1	XP_004020199.1	XP_004020199.1 PREDICTED: WW domain binding protein 1-like isoform X1 [Ovis aries]	9940;59538	98.6	389	348	281	111	389	68	348	5.3e-134	486.9	1252
+scaffold26854_g69.t1	XP_006064961.1	XP_006064961.1 PREDICTED: WW domain binding protein 1-like isoform X3 [Bubalus bubalis]	89462	98.2	389	346	279	111	389	68	346	1.6e-133	485.3	1248
+scaffold26854_g69.t1	XP_006064959.1	XP_006064959.1 PREDICTED: WW domain binding protein 1-like isoform X1 [Bubalus bubalis]	89462	98.2	389	367	279	111	389	89	367	1.6e-133	485.3	1248
+scaffold26854_g69.t1	XP_006064960.1	XP_006064960.1 PREDICTED: WW domain binding protein 1-like isoform X2 [Bubalus bubalis]	89462	98.2	389	358	279	111	389	80	358	1.6e-133	485.3	1248
+scaffold26854_g69.t1	XP_002698502.1	XP_002698502.1 PREDICTED: WW domain binding protein 1-like isoform X1 [Bos taurus]	9913;9915;43346	98.2	389	368	280	111	389	89	368	2.6e-133	484.6	1246
+scaffold26854_g69.t1	XP_005225747.1	XP_005225747.1 PREDICTED: WW domain binding protein 1-like isoform X2 [Bos taurus]	9913;9915;43346	98.2	389	347	280	111	389	68	347	2.6e-133	484.6	1246
+scaffold26854_g69.t1	OWK07767.1	OWK07767.1 hypothetical protein Celaphus_00008636 [Cervus elaphus hippelaphus]	46360	98.2	389	363	279	111	389	86	363	4.5e-133	483.8	1244
+scaffold26854_g69.t1	XP_004265982.1	XP_004265982.1 PREDICTED: WW domain binding protein 1-like [Orcinus orca]	9733	87.5	389	329	303	87	389	31	329	3.6e-130	474.2	1219
+scaffold26854_g69.t1	XP_020929132.1	XP_020929132.1 WW domain binding protein 1-like isoform X3 [Sus scrofa]	9823	88.5	389	343	279	111	389	68	343	5.7e-128	466.8	1200
+scaffold26854_g69.t1	XP_001929192.4	XP_001929192.4 WW domain binding protein 1-like isoform X1 [Sus scrofa]	9823	88.5	389	364	279	111	389	89	364	5.7e-128	466.8	1200
+scaffold26854_g69.t1	XP_005657509.1	XP_005657509.1 WW domain binding protein 1-like isoform X2 [Sus scrofa]	9823	88.5	389	343	279	111	389	68	343	5.7e-128	466.8	1200
+scaffold26854_g69.t1	XP_014641183.1	XP_014641183.1 PREDICTED: WW domain binding protein 1-like isoform X2 [Ceratotherium simum simum]	73337	87.1	389	343	279	111	389	68	343	1.3e-127	465.7	1197
+scaffold26854_g69.t1	XP_004428074.1	XP_004428074.1 PREDICTED: WW domain binding protein 1-like isoform X1 [Ceratotherium simum simum]	73337	87.1	389	364	279	111	389	89	364	1.3e-127	465.7	1197
+scaffold26854_g69.t1	XP_007126957.1	XP_007126957.1 PREDICTED: WW domain binding protein 1-like isoform X3 [Physeter catodon]	9755	87.1	389	341	279	111	389	67	341	1.7e-127	465.3	1196
+scaffold26854_g69.t1	XP_007126956.1	XP_007126956.1 PREDICTED: WW domain binding protein 1-like isoform X2 [Physeter catodon]	9755	87.1	389	342	279	111	389	68	342	1.7e-127	465.3	1196
+scaffold26854_g69.t1	XP_007126955.1	XP_007126955.1 PREDICTED: WW domain binding protein 1-like isoform X1 [Physeter catodon]	9755	87.1	389	363	279	111	389	89	363	1.7e-127	465.3	1196
+scaffold26854_g69.t1	XP_007126958.1	XP_007126958.1 PREDICTED: WW domain binding protein 1-like isoform X4 [Physeter catodon]	9755	87.1	389	338	279	111	389	64	338	1.7e-127	465.3	1196
+scaffold26854_g69.t1	XP_007187292.1	XP_007187292.1 PREDICTED: WW domain binding protein 1-like isoform X3 [Balaenoptera acutorostrata scammoni]	310752	87.1	389	338	279	111	389	64	338	1.7e-127	465.3	1196
+scaffold26854_g69.t1	XP_007187290.1	XP_007187290.1 PREDICTED: WW domain binding protein 1-like isoform X1 [Balaenoptera acutorostrata scammoni]	310752	87.1	389	363	279	111	389	89	363	1.7e-127	465.3	1196
+scaffold26854_g69.t1	XP_007187291.1	XP_007187291.1 PREDICTED: WW domain binding protein 1-like isoform X2 [Balaenoptera acutorostrata scammoni]	310752	87.1	389	342	279	111	389	68	342	1.7e-127	465.3	1196
+scaffold14158_g70.t1	XP_007108708.1	XP_007108708.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X9 [Physeter catodon]	9755	95.6	136	665	68	1	68	598	665	8.3e-26	125.9	315
+scaffold14158_g70.t1	XP_007108702.1	XP_007108702.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X3 [Physeter catodon]	9755	95.6	136	729	68	1	68	662	729	8.3e-26	125.9	315
+scaffold14158_g70.t1	XP_007108701.1	XP_007108701.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X2 [Physeter catodon]	9755	95.6	136	736	68	1	68	669	736	8.3e-26	125.9	315
+scaffold14158_g70.t1	XP_007108700.1	XP_007108700.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X1 [Physeter catodon]	9755	95.6	136	776	68	1	68	709	776	8.3e-26	125.9	315
+scaffold14158_g70.t1	XP_007108703.1	XP_007108703.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X4 [Physeter catodon]	9755	95.6	136	702	68	1	68	635	702	8.3e-26	125.9	315
+scaffold14158_g70.t1	XP_007108705.1	XP_007108705.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X6 [Physeter catodon]	9755	95.6	136	691	68	1	68	624	691	8.3e-26	125.9	315
+scaffold14158_g70.t1	NP_001095579.1	NP_001095579.1 ribosome-releasing factor 2, mitochondrial [Bos taurus]	9913;9915	94.1	136	777	68	1	68	710	777	1.9e-25	124.8	312
+scaffold14158_g70.t1	ELR53480.1	ELR53480.1 Ribosome-releasing factor 2, mitochondrial, partial [Bos mutus]	72004	94.1	136	778	68	1	68	711	778	1.9e-25	124.8	312
+scaffold14158_g70.t1	XP_005899848.1	XP_005899848.1 PREDICTED: ribosome-releasing factor 2, mitochondrial [Bos mutus]	72004	94.1	136	777	68	1	68	710	777	1.9e-25	124.8	312
+scaffold14158_g70.t1	XP_019838408.1	XP_019838408.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X1 [Bos indicus]	9915	94.1	136	717	68	1	68	650	717	1.9e-25	124.8	312
+scaffold14158_g70.t1	XP_007461673.1	XP_007461673.1 PREDICTED: ribosome-releasing factor 2, mitochondrial [Lipotes vexillifer]	118797	94.1	136	776	68	1	68	709	776	1.9e-25	124.8	312
+scaffold14158_g70.t1	XP_007175981.1	XP_007175981.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X1 [Balaenoptera acutorostrata scammoni]	310752	92.6	136	786	68	1	68	719	786	2.4e-25	124.4	311
+scaffold14158_g70.t1	XP_007175983.1	XP_007175983.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X3 [Balaenoptera acutorostrata scammoni]	310752	92.6	136	776	68	1	68	709	776	2.4e-25	124.4	311
+scaffold14158_g70.t1	XP_007175984.1	XP_007175984.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X4 [Balaenoptera acutorostrata scammoni]	310752	92.6	136	739	68	1	68	672	739	2.4e-25	124.4	311
+scaffold14158_g70.t1	XP_007175985.1	XP_007175985.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X5 [Balaenoptera acutorostrata scammoni]	310752	92.6	136	729	68	1	68	662	729	2.4e-25	124.4	311
+scaffold14158_g70.t1	XP_007175986.1	XP_007175986.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X6 [Balaenoptera acutorostrata scammoni]	310752	92.6	136	702	68	1	68	635	702	2.4e-25	124.4	311
+scaffold14158_g70.t1	XP_007175987.1	XP_007175987.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X7 [Balaenoptera acutorostrata scammoni]	310752	92.6	136	665	68	1	68	598	665	2.4e-25	124.4	311
+scaffold14158_g70.t1	XP_004016930.1	XP_004016930.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X1 [Ovis aries]	9940	94.1	136	777	68	1	68	710	777	3.2e-25	124.0	310
+scaffold14158_g70.t1	XP_011952140.1	XP_011952140.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X3 [Ovis aries]	9940	94.1	136	665	68	1	68	598	665	3.2e-25	124.0	310
+scaffold14158_g70.t1	XP_017921025.1	XP_017921025.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X1 [Capra hircus]	9925	94.1	136	797	68	1	68	730	797	3.2e-25	124.0	310
+scaffold14158_g70.t1	XP_011952138.1	XP_011952138.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X2 [Ovis aries]	9940	94.1	136	702	68	1	68	635	702	3.2e-25	124.0	310
+scaffold14158_g70.t1	XP_017921027.1	XP_017921027.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X2 [Capra hircus]	9925	94.1	136	777	68	1	68	710	777	3.2e-25	124.0	310
+scaffold14158_g70.t1	XP_022450603.1	XP_022450603.1 ribosome-releasing factor 2, mitochondrial isoform X3 [Delphinapterus leucas]	9749	92.6	136	665	68	1	68	598	665	7.1e-25	122.9	307
+scaffold14158_g70.t1	XP_022450585.1	XP_022450585.1 ribosome-releasing factor 2, mitochondrial isoform X1 [Delphinapterus leucas]	9749	92.6	136	776	68	1	68	709	776	7.1e-25	122.9	307
+scaffold14158_g70.t1	XP_019785394.1	XP_019785394.1 PREDICTED: ribosome-releasing factor 2, mitochondrial isoform X4 [Tursiops truncatus]	9739	92.6	136	665	68	1	68	598	665	9.2e-25	122.5	306
+scaffold14158_g71.t1	NP_001069978.2	NP_001069978.2 beta-hexosaminidase subunit beta preproprotein [Bos taurus]	9913	96.2	260	537	131	115	245	151	281	1.5e-68	268.9	686
+scaffold14158_g71.t1	ELR53481.1	ELR53481.1 Beta-hexosaminidase subunit beta, partial [Bos mutus]	72004	96.2	260	523	131	115	245	137	267	1.5e-68	268.9	686
+scaffold14158_g71.t1	XP_019838411.1	XP_019838411.1 PREDICTED: beta-hexosaminidase subunit beta [Bos indicus]	9915	96.2	260	537	131	115	245	151	281	1.5e-68	268.9	686
+scaffold14158_g71.t1	XP_005899849.1	XP_005899849.1 PREDICTED: beta-hexosaminidase subunit beta [Bos mutus]	72004	96.2	260	537	131	115	245	151	281	1.5e-68	268.9	686
+scaffold14158_g71.t1	XP_010851910.1	XP_010851910.1 PREDICTED: beta-hexosaminidase subunit beta-like [Bison bison bison]	43346	88.1	260	526	143	103	245	128	270	2.0e-68	268.5	685
+scaffold14158_g71.t1	XP_008689883.1	XP_008689883.1 PREDICTED: beta-hexosaminidase subunit beta [Ursus maritimus]	29073	91.6	260	504	131	115	245	122	252	3.8e-67	264.2	674
+scaffold14158_g71.t1	EFB14981.1	EFB14981.1 hypothetical protein PANDA_005458, partial [Ailuropoda melanoleuca]	9646	91.6	260	453	131	115	245	72	202	3.8e-67	264.2	674
+scaffold14158_g71.t1	XP_011220631.2	XP_011220631.2 PREDICTED: beta-hexosaminidase subunit beta [Ailuropoda melanoleuca]	9646	91.6	260	556	131	115	245	174	304	3.8e-67	264.2	674
+scaffold14158_g71.t1	XP_006055467.1	XP_006055467.1 PREDICTED: beta-hexosaminidase subunit beta [Bubalus bubalis]	89462	94.7	260	406	131	115	245	40	170	3.8e-67	264.2	674
+scaffold14158_g71.t1	XP_017921030.1	XP_017921030.1 PREDICTED: beta-hexosaminidase subunit beta [Capra hircus]	9925	94.7	260	540	131	115	245	154	284	4.9e-67	263.8	673
+scaffold14158_g71.t1	XP_021557694.1	XP_021557694.1 beta-hexosaminidase subunit beta [Neomonachus schauinslandi]	29088	91.6	260	527	131	115	245	145	275	1.1e-66	262.7	670
+scaffold14158_g71.t1	XP_006735133.1	XP_006735133.1 PREDICTED: beta-hexosaminidase subunit beta [Leptonychotes weddellii]	9713	91.6	260	527	131	115	245	145	275	1.1e-66	262.7	670
+scaffold14158_g71.t1	XP_004416177.1	XP_004416177.1 PREDICTED: beta-hexosaminidase subunit beta [Odobenus rosmarus divergens]	9708	90.8	260	527	131	115	245	145	275	1.1e-66	262.7	670
+scaffold14158_g71.t1	XP_019838711.1	XP_019838711.1 PREDICTED: beta-hexosaminidase subunit beta-like [Bos indicus]	9915	93.1	260	406	131	115	245	160	290	1.4e-66	262.3	669
+scaffold14158_g71.t1	XP_010851838.1	XP_010851838.1 PREDICTED: beta-hexosaminidase subunit beta-like [Bison bison bison]	43346	93.1	260	537	131	115	245	151	281	1.9e-66	261.9	668
+scaffold14158_g71.t1	XP_005899855.1	XP_005899855.1 PREDICTED: beta-hexosaminidase subunit beta [Bos mutus]	72004	93.1	260	477	131	115	245	160	290	1.9e-66	261.9	668
+scaffold14158_g71.t1	ELR53482.1	ELR53482.1 Beta-hexosaminidase subunit beta, partial [Bos mutus]	72004	93.1	260	453	131	115	245	152	282	1.9e-66	261.9	668
+scaffold14158_g71.t1	XP_005956891.1	XP_005956891.1 PREDICTED: beta-hexosaminidase subunit beta [Pantholops hodgsonii]	59538	93.1	260	626	131	115	245	240	370	7.1e-66	260.0	663
+scaffold14158_g71.t1	XP_004766918.1	XP_004766918.1 PREDICTED: beta-hexosaminidase subunit beta [Mustela putorius furo]	9669	90.1	260	527	131	115	245	145	275	7.1e-66	260.0	663
+scaffold14158_g71.t1	XP_022360409.1	XP_022360409.1 beta-hexosaminidase subunit beta [Enhydra lutris kenyoni]	391180	90.1	260	650	131	115	245	268	398	7.1e-66	260.0	663
+scaffold14158_g71.t1	XP_014963844.1	XP_014963844.1 PREDICTED: beta-hexosaminidase subunit beta isoform X4 [Ovis aries musimon]	9938	92.4	260	474	131	115	245	154	284	9.2e-66	259.6	662
+scaffold14158_g71.t1	XP_011999491.1	XP_011999491.1 PREDICTED: beta-hexosaminidase subunit beta isoform X3 [Ovis aries musimon]	9938	92.4	260	540	131	115	245	154	284	9.2e-66	259.6	662
+scaffold14158_g71.t1	XP_019318563.1	XP_019318563.1 PREDICTED: beta-hexosaminidase subunit beta [Panthera pardus]	9691	90.1	260	531	131	115	245	145	275	2.1e-65	258.5	659
+scaffold14158_g71.t1	XP_017900781.1	XP_017900781.1 PREDICTED: LOW QUALITY PROTEIN: beta-hexosaminidase subunit beta-like [Capra hircus]	9925	92.4	260	270	131	115	245	50	180	2.7e-65	258.1	658
+scaffold14158_g71.t1	XP_017921250.1	XP_017921250.1 PREDICTED: LOW QUALITY PROTEIN: beta-hexosaminidase subunit beta [Capra hircus]	9925	92.4	260	549	131	115	245	163	293	2.7e-65	258.1	658
+scaffold14415_g72.t1	XP_020757298.1	XP_020757298.1 alcohol dehydrogenase 4 isoform X1 [Odocoileus virginianus texanus]	9880	94.3	106	380	53	1	53	328	380	5.3e-20	106.3	264
+scaffold14415_g72.t1	XP_005964392.1	XP_005964392.1 PREDICTED: alcohol dehydrogenase 4 [Pantholops hodgsonii]	59538	94.3	106	380	53	1	53	328	380	5.3e-20	106.3	264
+scaffold14415_g72.t1	XP_020757301.1	XP_020757301.1 alcohol dehydrogenase 4 isoform X3 [Odocoileus virginianus texanus]	9880	94.3	106	311	53	1	53	259	311	5.3e-20	106.3	264
+scaffold14415_g72.t1	ELR54194.1	ELR54194.1 Alcohol dehydrogenase 4, partial [Bos mutus]	72004	92.5	106	377	53	1	53	325	377	1.2e-19	105.1	261
+scaffold14415_g72.t1	NP_001095529.1	NP_001095529.1 alcohol dehydrogenase 4 [Bos taurus]	9913	92.5	106	380	53	1	53	328	380	1.2e-19	105.1	261
+scaffold14415_g72.t1	XP_005898872.1	XP_005898872.1 PREDICTED: alcohol dehydrogenase 4 [Bos mutus]	72004	92.5	106	380	53	1	53	328	380	1.2e-19	105.1	261
+scaffold14415_g72.t1	DAA28834.1	DAA28834.1 TPA: alcohol dehydrogenase 4 [Bos taurus]	9913	92.5	106	380	53	1	53	328	380	1.2e-19	105.1	261
+scaffold14415_g72.t1	XP_006059260.1	XP_006059260.1 PREDICTED: alcohol dehydrogenase 4 [Bubalus bubalis]	89462	92.5	106	380	53	1	53	328	380	1.2e-19	105.1	261
+scaffold14415_g72.t1	XP_019817973.1	XP_019817973.1 PREDICTED: alcohol dehydrogenase 4 [Bos indicus]	9915	92.5	106	380	53	1	53	328	380	1.2e-19	105.1	261
+scaffold14415_g72.t1	XP_010846617.1	XP_010846617.1 PREDICTED: alcohol dehydrogenase 4 [Bison bison bison]	43346	92.5	106	380	53	1	53	328	380	1.2e-19	105.1	261
+scaffold14415_g72.t1	XP_014946960.1	XP_014946960.1 PREDICTED: alcohol dehydrogenase 4-like [Ovis aries musimon]	9938	92.5	106	290	53	1	53	238	290	2.6e-19	104.0	258
+scaffold14415_g72.t1	XP_017904777.1	XP_017904777.1 PREDICTED: alcohol dehydrogenase 4 isoform X1 [Capra hircus]	9925	92.5	106	380	53	1	53	328	380	2.6e-19	104.0	258
+scaffold14415_g72.t1	XP_017904779.1	XP_017904779.1 PREDICTED: alcohol dehydrogenase 4 [Capra hircus]	9925	90.6	106	380	53	1	53	328	380	4.5e-19	103.2	256
+scaffold14415_g72.t1	XP_006191340.1	XP_006191340.1 PREDICTED: alcohol dehydrogenase 4 [Camelus ferus]	419612	84.9	106	380	53	1	53	328	380	5.0e-18	99.8	247
+scaffold14415_g72.t1	XP_010978913.1	XP_010978913.1 PREDICTED: alcohol dehydrogenase 4 [Camelus dromedarius]	9838	84.9	106	380	53	1	53	328	380	5.0e-18	99.8	247
+scaffold14415_g72.t1	XP_015098794.1	XP_015098794.1 PREDICTED: alcohol dehydrogenase 4 [Vicugna pacos]	30538	84.9	106	330	53	1	53	278	330	5.0e-18	99.8	247
+scaffold14415_g72.t1	XP_010951865.1	XP_010951865.1 PREDICTED: alcohol dehydrogenase 4 [Camelus bactrianus]	9837	84.9	106	380	53	1	53	328	380	5.0e-18	99.8	247
+scaffold14415_g72.t1	NP_001302599.1	NP_001302599.1 alcohol dehydrogenase 4 [Sus scrofa]	9823	84.9	106	380	53	1	53	328	380	1.1e-17	98.6	244
+scaffold14415_g72.t1	XP_007472309.1	XP_007472309.1 PREDICTED: LOW QUALITY PROTEIN: alcohol dehydrogenase 4 (class II), pi polypeptide [Lipotes vexillifer]	118797	69.0	106	379	71	37	106	309	379	1.9e-17	97.8	242
+scaffold14415_g72.t1	XP_019596703.1	XP_019596703.1 PREDICTED: alcohol dehydrogenase 4 isoform X1 [Rhinolophus sinicus]	89399	79.2	106	408	53	1	53	356	408	7.2e-17	95.9	237
+scaffold14415_g72.t1	XP_019596704.1	XP_019596704.1 PREDICTED: alcohol dehydrogenase 4 isoform X2 [Rhinolophus sinicus]	89399	79.2	106	380	53	1	53	328	380	7.2e-17	95.9	237
+scaffold14415_g72.t1	XP_004431044.2	XP_004431044.2 PREDICTED: alcohol dehydrogenase 4 [Ceratotherium simum simum]	73337	79.2	106	380	53	1	53	328	380	1.2e-16	95.1	235
+scaffold14415_g72.t1	XP_019517199.1	XP_019517199.1 PREDICTED: alcohol dehydrogenase 4 isoform X4 [Hipposideros armiger]	186990	77.4	106	348	53	1	53	296	348	1.2e-16	95.1	235
+scaffold14415_g72.t1	XP_019517197.1	XP_019517197.1 PREDICTED: alcohol dehydrogenase 4 isoform X2 [Hipposideros armiger]	186990	77.4	106	380	53	1	53	328	380	1.2e-16	95.1	235
+scaffold14415_g72.t1	XP_019517196.1	XP_019517196.1 PREDICTED: alcohol dehydrogenase 4 isoform X1 [Hipposideros armiger]	186990	77.4	106	392	53	1	53	340	392	1.2e-16	95.1	235
