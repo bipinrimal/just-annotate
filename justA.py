@@ -1,87 +1,115 @@
-import sqlite3
-import os
+import sys
+import argparse
+from pony.orm import *
 import csv
 from itertools import *
+import time
+import sqlite3
 
-# Committing to free RAM
-CHUNK = 100000
+# Parse arguments
+parser=argparse.ArgumentParser(description="Create sqlite3 annotation database combining gene to geneontology table and gene to gene to accession table.")
+parser.add_argument("-db","--database",help="Name of the database file")
+parser.add_argument("-g","--gene_go",help="File with GO terms associated with Genes in Entrez Gene.")
+parser.add_argument("-p","--gene_acc",help="File with accessions that are related to GeneID.")
+args=parser.parse_args()
 
-# Maximum amount of data to send to database
-LIMIT = 1000000
+dbname=str(args.database)
+gene_go=str(args.gene_go)
+gene_acc=str(args.gene_acc)
+
+################################################################################
+
+#Create database and tables and map them
+
+db = Database("sqlite", str(args.database), create_db=True)
+
+class Gene2go(db.Entity):
+    """
+    Pony ORM Model for Genetogo table containing protein accession link, go-term, go-id and go category
+    """
+    geneid = Required(str, index="geneid")
+    go_term = Required(str, index="go_term")
+    go_id = Required(str, index="go_id")
+    category = Required(str, index="category")
+
+class Gene2acc(db.Entity):
+    """
+    Pony ORM model for Protein accession table containing protein accession, gene symbol and gene_did
+    """
+    prot_acc = Required(str, index="prot_acc")
+    symbol = Required(str, index="symbol")
+    gene_id = Required(str, index="gene_id")
 
 
-# A function to create database of name (fname) and create a connection
-def get_conn(fname):
-    conn = sqlite3.connect(fname)
+# debug mode
+sql_debug(True)
+#
+# Map models and create tables if they dont exist
+db.generate_mapping(create_tables=True)
+
+
+###############################################################################
+
+# Get sqlite3 connection
+def get_conn(dbname):
+    conn = sqlite3.connect(dbname)
     return conn
 
+CHUNK=100000
+LIMIT=None
 
-# A function which creates database (even if database is present,
-def create(fname):
-    if os.path.isfile(fname):
-        os.remove(fname)
-    conn = get_conn(fname)  # uses function created above
+def populateGene2Go(dbname, gene_go):
+    conn = get_conn(dbname)
     curs = conn.cursor()
-
-    # create a table
-    curs.execute('''CREATE TABLE go_table
-               (geneid, protein_acc, symbol)''')
-    # Save the table within the database (Save changes)
-    conn.commit()
-
-
-# connection was made
-def print_db(fname):
-    conn = get_conn(fname)
-    curs = conn.cursor()
-    print('===')
-
-
-# play around
-def play(fname):
-    conn = get_conn(fname)  # created and connected table
-    curs = conn.cursor()  # open to commands
-
-    stream = csv.DictReader(open("gene2accession"), delimiter='\t')  # openfile
-    stream = islice(stream, LIMIT)  # slice the file
+    stream = csv.DictReader(open(gene_go), delimiter='\t')
+    stream = islice(stream, LIMIT)
     data = []
+    start = time.time()
     for index, row in enumerate(stream):
 
-        data.append(row['GeneID'], row['protein_accession.version'], row['Symbol'])
+        data.append((row['GeneID'], row['GO_ID'], row['GO_term'], row['Category']))
 
         remain = index % CHUNK
 
         if remain == 0 and data:
-            curs.executemany('INSERT INTO go_table VALUES (?,?,?)', data)
+            curs.executemany('INSERT INTO Gene2go(geneid, go_id, go_term, category) VALUES (?,?,?,?)', data)
             conn.commit()
             print("commit")
             print(index)
 
             data = []
-            # print (row['GeneID'])
     print("Done")
 
-    # print(len(data))
-    # 1 / 0
+    end = time.time()
+    print(end - start)
 
+########################################################################################
 
-    sql_commands = [
-        'CREATE INDEX foo1 ON go_table(symbol)',
-        'CREATE INDEX foo2 ON go_table(geneid)',
-        'CREATE INDEX foo3 ON go_table(protein_acc)',
-    ]
-    for sql in sql_commands:
-        curs.execute(sql)
+def populateGene2Acc(dbname, gene_acc):
+    conn = get_conn(dbname)
+    curs = conn.cursor()
+    stream = csv.DictReader(open(gene_acc), delimiter='\t')
+    stream = islice(stream, LIMIT)
+    data = []
 
-    print("Index done")
-    # search_string=('YP%')
-    for row in curs.execute('SELECT COUNT (*) FROM go_table'):
-        print(row)
+    start = time.time()
+
+    for index, row in enumerate(stream):
+
+        data.append((row['GeneID'], row['protein_accession.version'], row['Symbol']))
+
+        remain = index % CHUNK
+
+        if remain == 0 and data:
+            curs.executemany('INSERT INTO Gene2acc(gene_id, prot_acc, symbol) VALUES (?,?,?)', data)
+            conn.commit()
+            print("commit")
+            print(index)
+
+            data = []
+    print("Done")
 
 
 if __name__ == '__main__':
-    fname = 'time_db'
-    create(fname)
-    print_db(fname)
-    play(fname)
-    print_db(fname)
+    populateGene2Go(dbname, gene_go)
+    populateGene2Acc(dbname,gene_acc)
