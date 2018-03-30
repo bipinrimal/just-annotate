@@ -16,7 +16,7 @@ with gene symbol, gene ontology term, gene ontology id and the category.
     justA.py [-h] [-f FILE] [-c COLUMN]
      
     Query script for obtaining gene ID, go term, category and funciton, when
-    accession number when one is provided
+    accession number is provided.
       
     optional arguments:  
      

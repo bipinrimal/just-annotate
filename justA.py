@@ -18,7 +18,7 @@ col=int(args.column)-1
 
 
 with db_session:
-    LIMIT=10
+    LIMIT=None
     stream = csv.DictReader(open(fname), delimiter='\t')
     col_name=stream.fieldnames[col]
     stream = islice(stream, LIMIT)
