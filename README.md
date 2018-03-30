@@ -1,48 +1,85 @@
 # just-annotate
 Functional analysis of genomic data 
 
-There are three scripts *gene2go.py*, *gene2acc.py* and *results.py* which create a sqlite3 database for NCBI
-GeneID to Gene Ontology mapping file, Gene ID to protein accession numbers mapping file and finally the user Diamond 
-result file containing protein accession number and sequence title.
- 
-*gene2go.py* creates the annotation database so need to be run first. Others can be run after that. 
+**Just annotate** is a tool for genome annotation which uses sqlite based database created from NCBI GeneID to 
+Gene Ontology mapping file and Gene ID to protein accession numbers mapping file and queries the database using 
+Pony ORM library. It takes protein accession number obtained from blast result as input and annotates it 
+with gene symbol, gene ontology term, gene ontology id and the category.  
 
-The tables includes:
+  
+    
+    
+**Usage:**
+     
+    python justA.py  
+     
+    justA.py [-h] [-f FILE] [-c COLUMN]
+     
+    Query script for obtaining gene ID, go term, category and funciton, and 
+    accession number when one is provided
+      
+    optional arguments:  
+     
+    -h, --help            show this help message and exit
+    
+    -f FILE, --file FILE  
+                        File containing either geneID, go term, accession number
+                         
+    -c COLUMN, --column COLUMN
+                        Integer value for the column containing query data, first column=1, second column =2
 
-**A. gene2go:** (Created by *gene2go.py*)
-1. *gene_id* (Gene ID)
+
+
+
+**Install Dependencies:**
+
+Pony ORM
+```bash
+    pip install pony
+```
+
+**Install:**
+
+```bash
+git clone https://github.com/bipinrimal/just-annotate.git
+cd just-annotate
+make
+```
+The installation involves building a sqlite based database compatible with Pony ORM query library.
+It takes about 4-5 minutes for the data file to download based on the internet connection and building the database
+requires about 40-45 minutes.
+
+The tables within the built database ncludes:
+
+**A. Gene2go:** 
+1. *geneid* (Gene ID)
 2. *go_id* (Gene Ontology ID)
 3. *go_term* (Gene Ontology Term)
 4. *category* (Category)
 
 
-**B. gene2acc:** (Created by *gene2acc.py*)
+**B. Gene2acc:** 
 1. *gene_id* (Gene ID)
 2. *prot_acc* (Protein Accession no.)
 3. *symbol*    (Gene Symbol)
 
-**C. blastresult:** (Created by *results.py*)
-1. *prot_acc* (Protein Accession no.)
-2. *stitle* (Sequence Title from Blastp result)
 
-The database can be queried to identify gene symbol and gene ontology terms for the protein accession obtained from blastp result. 
-For example:
+**Usage Example:**
 
-    Input Query:
-    curs.execute('''SELECT blastresult.prot_acc, gene2acc.gene_id, gene2acc.symbol, gene2go.go_id, gene2go.gene_id, gene2go.go_term
-        FROM blastresult JOIN gene2go JOIN gene2acc
-        ON blastresult.prot_acc = gene2acc.prot_acc AND gene2acc.gene_id = gene2go.gene_id LIMIT 10;''')
-        
-     
-    Output: 
-    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
-    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
-    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
-    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
-    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
-    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
-    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
-    NP_181643.1,818709,TCH3,GO:0005509,818709,"calcium ion binding"
-    NP_181643.1,818709,TCH3,GO:0005515,818709,"protein binding"
-    NP_181643.1,818709,TCH3,GO:0005515,818709,"protein binding"
-           
+The *justA.py* can take blast output table as input with the column number containing the query Protein accession
+ number. 
+ 
+ ```bash
+$ python justA.py -f blast_testdata.txt -c 2
+  
+(u'AAA17565.1', u'MYO1C', u'281937', u'GO:0001726', u'ruffle', u'Component')
+(u'AAA17565.1', u'MYO1C', u'281937', u'GO:0003777', u'microtubule motor activity', u'Function')
+(u'AAA17565.1', u'MYO1C', u'281937', u'GO:0003779', u'actin binding', u'Function')
+(u'AAA17565.1', u'MYO1C', u'281937', u'GO:0005102', u'signaling receptor binding', u'Function')
+(u'AAA17565.1', u'MYO1C', u'281937', u'GO:0005516', u'calmodulin binding', u'Function')
+(u'AAA17565.1', u'MYO1C', u'281937', u'GO:0005524', u'ATP binding', u'Function')
+(u'AAA17565.1', u'MYO1C', u'281937', u'GO:0005643', u'nuclear pore', u'Component')
+(u'AAA17565.1', u'MYO1C', u'281937', u'GO:0005730', u'nucleolus', u'Component')
+(u'AAA17565.1', u'MYO1C', u'281937', u'GO:0005902', u'microvillus', u'Component')
+
+```

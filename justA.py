@@ -1,115 +1,76 @@
-import sys
-import argparse
-from pony.orm import *
-import csv
 from itertools import *
-import time
-import sqlite3
+import csv
+import argparse
+from reflection import *
+
 
 # Parse arguments
-parser=argparse.ArgumentParser(description="Create sqlite3 annotation database combining gene to geneontology table and gene to gene to accession table.")
-parser.add_argument("-db","--database",help="Name of the database file")
-parser.add_argument("-g","--gene_go",help="File with GO terms associated with Genes in Entrez Gene.")
-parser.add_argument("-p","--gene_acc",help="File with accessions that are related to GeneID.")
+parser=argparse.ArgumentParser(description="Query script for obtaining gene ID, go term, category and funciton, "
+                                           "and accession number when one is provided")
+parser.add_argument("-f","--file",help="File containing either geneID, go term, accession number")
+parser.add_argument("-c","--column",help="Column integer value for the data, first=1, second=2")
+#parser.add_argument("-t","--type",help="data type:'geneid' if query is geneid; 'protsacc' if query is protein accession number; symbol' if query is gene symbol")
 args=parser.parse_args()
 
-dbname=str(args.database)
-gene_go=str(args.gene_go)
-gene_acc=str(args.gene_acc)
-
-################################################################################
-
-#Create database and tables and map them
-
-db = Database("sqlite", str(args.database), create_db=True)
-
-class Gene2go(db.Entity):
-    """
-    Pony ORM Model for Genetogo table containing protein accession link, go-term, go-id and go category
-    """
-    geneid = Required(str, index="geneid")
-    go_term = Required(str, index="go_term")
-    go_id = Required(str, index="go_id")
-    category = Required(str, index="category")
-
-class Gene2acc(db.Entity):
-    """
-    Pony ORM model for Protein accession table containing protein accession, gene symbol and gene_did
-    """
-    prot_acc = Required(str, index="prot_acc")
-    symbol = Required(str, index="symbol")
-    gene_id = Required(str, index="gene_id")
+fname=str(os.path.abspath(args.file))
+col=int(args.column)-1
+#data_type=str(args.type)
 
 
-# debug mode
-sql_debug(True)
+with db_session:
+    LIMIT=10
+    stream = csv.DictReader(open(fname), delimiter='\t')
+    col_name=stream.fieldnames[col]
+    stream = islice(stream, LIMIT)
+    for index, row in enumerate(stream):
+
+        query=select(( c.prot_acc, c.symbol, g.geneid, g.go_id, g.go_term, g.category)for g in Gene2go
+                     for c in Gene2acc if g.geneid==c.gene_id and c.prot_acc==row[col_name])
+
+        with open('result.csv','wb') as out:
+            csv_out = csv.writer(out)
+            for row in query:
+                print(row)
+                csv_out.writerow(row)
+
+# #######################################################################
+# with db_session:
+#         LIMIT=10
+#         stream = csv.DictReader(open(fname), delimiter='\t')
+#         col_name=stream.fieldnames[col]
+#         stream = islice(stream, LIMIT)
+#         for index, row in enumerate(stream):
 #
-# Map models and create tables if they dont exist
-db.generate_mapping(create_tables=True)
-
-
-###############################################################################
-
-# Get sqlite3 connection
-def get_conn(dbname):
-    conn = sqlite3.connect(dbname)
-    return conn
-
-CHUNK=100000
-LIMIT=None
-
-def populateGene2Go(dbname, gene_go):
-    conn = get_conn(dbname)
-    curs = conn.cursor()
-    stream = csv.DictReader(open(gene_go), delimiter='\t')
-    stream = islice(stream, LIMIT)
-    data = []
-    start = time.time()
-    for index, row in enumerate(stream):
-
-        data.append((row['GeneID'], row['GO_ID'], row['GO_term'], row['Category']))
-
-        remain = index % CHUNK
-
-        if remain == 0 and data:
-            curs.executemany('INSERT INTO Gene2go(geneid, go_id, go_term, category) VALUES (?,?,?,?)', data)
-            conn.commit()
-            print("commit")
-            print(index)
-
-            data = []
-    print("Done")
-
-    end = time.time()
-    print(end - start)
-
-########################################################################################
-
-def populateGene2Acc(dbname, gene_acc):
-    conn = get_conn(dbname)
-    curs = conn.cursor()
-    stream = csv.DictReader(open(gene_acc), delimiter='\t')
-    stream = islice(stream, LIMIT)
-    data = []
-
-    start = time.time()
-
-    for index, row in enumerate(stream):
-
-        data.append((row['GeneID'], row['protein_accession.version'], row['Symbol']))
-
-        remain = index % CHUNK
-
-        if remain == 0 and data:
-            curs.executemany('INSERT INTO Gene2acc(gene_id, prot_acc, symbol) VALUES (?,?,?)', data)
-            conn.commit()
-            print("commit")
-            print(index)
-
-            data = []
-    print("Done")
-
-
-if __name__ == '__main__':
-    populateGene2Go(dbname, gene_go)
-    populateGene2Acc(dbname,gene_acc)
+#             query=select((c.symbol, c.prot_acc, g.geneid, g.go_id, g.go_term, g.category)for g in Gene2go
+#                          for c in Gene2acc if g.geneid==c.gene_id and c.prot_acc==row[col_name])
+#             for row in query:
+#                 print(row)
+#
+#
+# ###################################################################################################
+#     if data_type=="geneid":
+#         LIMIT = 10
+#         stream = csv.DictReader(open(fname), delimiter='\t')
+#         col_name = stream.fieldnames[col]
+#         stream = islice(stream, LIMIT)
+#         for index, row in enumerate(stream):
+#             query=select(( c.symbol, c.prot_acc, g.geneid, g.go_id, g.go_term, g.category)
+#                          for g in Gene2go for c in Gene2acc
+#                          if g.geneid==c.gene_id and c.gene_id == row[col_name])
+#             for row in query:
+#                 print(row)
+#
+#
+# ###################################################################################################
+#     if data_type=="symbol":
+#         LIMIT = 10
+#         stream = csv.DictReader(open(fname), delimiter='\t')
+#         col_name = stream.fieldnames[col]
+#         stream = islice(stream, LIMIT)
+#         for index, row in enumerate(stream):
+#
+#             query=select(( c.symbol,c.prot_acc, g.geneid, g.go_id, g.go_term, g.category)
+#                          for g in Gene2go for c in Gene2acc
+#                          if g.geneid==c.gene_id and c.symbol==row[col_name])
+#             for row in query:
+#                 print(row)

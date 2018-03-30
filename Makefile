@@ -1,6 +1,8 @@
 DATA_DIR=data/ncbi
 DB_DIR=data/db
 
+all:dir data build
+
 dir:
 	mkdir -p ${DATA_DIR}
 	mkdir -p ${DB_DIR}
@@ -13,7 +15,7 @@ data: dir
 
 
 build: data
-	python justA.py -db ${DB_DIR}/annotationDB -g ${DATA_DIR}/gene2go -p ${DATA_DIR}/gene2accession
+	python build.py -db ${DB_DIR}/annotationDB -g ${DATA_DIR}/gene2go -p ${DATA_DIR}/gene2accession
 
 
 

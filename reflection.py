@@ -3,7 +3,8 @@ import sys
 from pony.orm import *
 import sqlite3
 
-db_path=os.path.abspath("annotationDB")
+db_path=os.path.abspath("data/db/annotationDB")
+
 db=Database("sqlite",db_path,create_db=True)
 
 class Gene2go(db.Entity):
@@ -16,7 +17,7 @@ class Gene2go(db.Entity):
     category = Required(str)
 
 
-class Protacc(db.Entity):
+class Gene2acc(db.Entity):
     """
     Pony ORM model for Protein accession table containing protein accession, gene symbol and gene_did
     """
