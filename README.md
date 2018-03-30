@@ -1,4 +1,4 @@
-# just-annotate
+# just-Annotate
 Functional analysis of genomic data 
 
 **Just annotate** is a tool for genome annotation which uses sqlite based database created from NCBI GeneID to 
@@ -15,7 +15,7 @@ with gene symbol, gene ontology term, gene ontology id and the category.
      
     justA.py [-h] [-f FILE] [-c COLUMN]
      
-    Query script for obtaining gene ID, go term, category and funciton, and 
+    Query script for obtaining gene ID, go term, category and funciton, when
     accession number when one is provided
       
     optional arguments:  
